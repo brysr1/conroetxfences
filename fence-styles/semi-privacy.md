@@ -13,7 +13,7 @@ faqs:
     a: "Sometimes, if the posts are long enough and still sound. If not, we can replace the posts and reuse a run of good panels below the new top."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Semi-Privacy" title="Semi-Privacy Fences" lede="Screening that softens the view of the neighbors without boxing in the yard or blocking the breeze." image="1658893575660-e7a88f2c56bc" alt="Board fence with yellow daylilies in front" %}
+{% include page-hero.html kicker="Fence Styles · Semi-Privacy" title="Semi-Privacy Fences" lede="Screening that softens the view of the neighbors without boxing in the yard or blocking the breeze." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New cedar shadowbox fence along a landscaped side yard" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

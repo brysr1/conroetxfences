@@ -13,7 +13,7 @@ faqs:
     a: "It depends on the wood, ground contact, and upkeep. Posts in wet ground fail first. A sealer on the rails and posts set for the soil add years, and vinyl rail skips the sealing altogether."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Split Rail" title="Split Rail &amp; Post-and-Rail Fences" lede="Open rail fencing that marks the line and gives acreage a ranch look without blocking the land." image="1639050428177-bcbd059b349a" alt="Zigzag split rail fence across a field with pine forest behind" %}
+{% include page-hero.html kicker="Fence Styles · Split Rail" title="Split Rail &amp; Post-and-Rail Fences" lede="Open rail fencing that marks the line and gives acreage a ranch look without blocking the land." image="/assets/images/fences/split-rail-pines.jpg" alt="New wooden rail fence across a pine-shaded country lawn" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
@@ -23,7 +23,7 @@ faqs:
       <p>Split rail fencing uses rough-split rails that slide into holes cut through the posts, two or three rails high. Post-and-rail, sometimes called board fence, nails sawn boards onto square posts for a tidier take on the same idea.</p>
       <p>Both usually stand between three and four-plus feet, mark a boundary, and leave the view open. Along a county road, at the head of a gravel drive, or across a front pasture under the pines, they look like they belong.</p>
     </div>
-    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="1527330266629-4b574df6da66" alt="Rustic split rail fence beside a field of yellow wildflowers" w=1000 %}</figure>
+    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="/assets/images/fences/split-rail-closeup.jpg" alt="New split rails set in a mortised post" w=1000 %}</figure>
   </div>
 </section>
 
@@ -34,9 +34,9 @@ faqs:
       <h2>Rail fence options</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card">{% include photo.html src="1749666690050-d9ef7f854769" alt="Split rail fence along a grassy yard with trees" w=700 %}<div class="lc-card-body"><h3>Split rail</h3><p>Rough, rustic rails in mortised posts. Two-rail for decoration, three-rail for more presence.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1537407034356-b8f5f1ac2aa8" alt="Wooden post-and-rail fence at sunset under dramatic clouds" w=700 %}<div class="lc-card-body"><h3>Post-and-rail / board</h3><p>Milled boards on square posts, stained or painted, often three or four boards high for paddocks.</p><a class="lc-more" href="/materials/farm-ranch/">Farm &amp; ranch</a></div></div>
-      <div class="lc-card">{% include photo.html src="1598202744332-b4dbd43ee821" alt="Weathered rail fence through tall dry grass" w=700 %}<div class="lc-card-body"><h3>Rail with wire mesh</h3><p>Mesh fastened behind the rails, welded wire or no-climb, so the fence holds dogs or livestock.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/split-rail-wooded.jpg" alt="New split rail fence curving along a wooded property" w=700 %}<div class="lc-card-body"><h3>Split rail</h3><p>Rough, rustic rails in mortised posts. Two-rail for decoration, three-rail for more presence.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/post-and-board-drive.jpg" alt="New post-and-board fence lining a gravel ranch drive" w=700 %}<div class="lc-card-body"><h3>Post-and-rail / board</h3><p>Milled boards on square posts, stained or painted, often three or four boards high for paddocks.</p><a class="lc-more" href="/materials/farm-ranch/">Farm &amp; ranch</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/rail-with-mesh.jpg" alt="New rail fence with black wire mesh along a wooded backyard" w=700 %}<div class="lc-card-body"><h3>Rail with wire mesh</h3><p>Mesh fastened behind the rails, welded wire or no-climb, so the fence holds dogs or livestock.</p></div></div>
     </div>
     <p class="lc-note lc-mt">Prefer no painting? Vinyl post-and-rail gives the same layout. See <a href="/materials/vinyl/">vinyl</a>.</p>
   </div>
@@ -100,7 +100,7 @@ faqs:
       </ul>
       <p class="lc-mt">On a subdivision lot, a short rail run can frame a front yard or driveway, if your community allows front-yard fencing.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1586574208875-cd77c2bfb851" alt="Weathered wooden rail fence along a field under a cloudy sky" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/split-rail-gate.jpg" alt="New split rail fence with a wooden walk gate at a garden path" w=1000 %}</figure>
   </div>
 </section>
 

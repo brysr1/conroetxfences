@@ -17,7 +17,7 @@ faqs:
     a: "Yes. New posts settle a little in the first months. Call us and we'll come back and adjust it."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Gates" title="Gates &amp; Gate Openers" lede="Walk gates, drive gates, and automatic openers built for daily use, from side yards to ranch entrances." image="1644272697319-34bd840ee258" alt="Tall wood driveway gate at the end of a gravel drive" %}
+{% include page-hero.html kicker="Fence Styles · Gates" title="Gates &amp; Gate Openers" lede="Walk gates, drive gates, and automatic openers built for daily use, from side yards to ranch entrances." image="/assets/images/fences/drive-gate-cedar.jpg" alt="New cedar double drive gate in a black steel frame" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
@@ -27,7 +27,7 @@ faqs:
       <p>A gate gets opened, slammed, leaned on, and blown around every day. Instead of tying into a continuous line, it hangs from one post. That is why a weak frame or a post that has shifted in wet clay shows up at the gate long before the rest of the fence.</p>
       <p>We size each gate for what has to go through it, from a trash can or riding mower to a truck and trailer, then set the gate posts deeper and in more concrete than the line posts.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1767464951649-2c2eba6b408c" alt="Wooden farm gate on a post in a green field" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/walk-gate-cedar.jpg" alt="New cedar walk gate with black strap hinges and a gravity latch" w=1000 %}</figure>
   </div>
 </section>
 
@@ -38,9 +38,9 @@ faqs:
       <h2>Walk gates, drive gates, and ranch gates</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card">{% include photo.html src="1723997292861-b8a5d4e8df03" alt="Black wooden gate set in a tall green hedge" w=700 %}<div class="lc-card-body"><h3>Walk gates</h3><p>Single gates for people, pets, and yard equipment. Four feet wide fits most mowers; wider for a riding mower.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1723997292889-33658513e538" alt="Black wooden double gate framed by green trees" w=700 %}<div class="lc-card-body"><h3>Drive gates</h3><p>Single or double swing gates, or slide gates where there&rsquo;s no room to swing, sized for vehicles and trailers.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1499963019970-f2bff23c54ea" alt="Metal ranch gate across a pasture drive with green hills" w=700 %}<div class="lc-card-body"><h3>Ranch &amp; pipe gates</h3><p>Tube or pipe gates for pasture and acreage entrances, hung high enough to clear grass and ruts.</p><a class="lc-more" href="/materials/farm-ranch/">Farm &amp; ranch</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/walk-gate-aluminum.jpg" alt="New black aluminum walk gate at a front garden path" w=700 %}<div class="lc-card-body"><h3>Walk gates</h3><p>Single gates for people, pets, and yard equipment. Four feet wide fits most mowers; wider for a riding mower.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/drive-gate-steel.jpg" alt="New black steel drive gate between brick columns" w=700 %}<div class="lc-card-body"><h3>Drive gates</h3><p>Single or double swing gates, or slide gates where there&rsquo;s no room to swing, sized for vehicles and trailers.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/ranch-tube-gate.jpg" alt="New galvanized tube ranch gate at a pasture entrance" w=700 %}<div class="lc-card-body"><h3>Ranch &amp; pipe gates</h3><p>Tube or pipe gates for pasture and acreage entrances, hung high enough to clear grass and ruts.</p><a class="lc-more" href="/materials/farm-ranch/">Farm &amp; ranch</a></div></div>
     </div>
   </div>
 </section>
@@ -64,8 +64,8 @@ faqs:
       </div></div>
     </div>
     <div class="lc-grid lc-grid-2 lc-mt">
-      <figure>{% include photo.html src="1751482820198-094cc95d8476" alt="Welded wire gate with a metal latch handle" w=700 %}</figure>
-      <figure>{% include photo.html src="1788294824587-1f8a1374166c" alt="Padlocked slide-bolt latch on a wooden gate" w=700 %}</figure>
+      <figure>{% include photo.html src="/assets/images/fences/gate-hardware.jpg" alt="New black hinge and gravity latch on a cedar gate" w=700 %}</figure>
+      <figure>{% include photo.html src="/assets/images/fences/gate-opener.jpg" alt="New black steel drive gate with an automatic opener" w=700 %}</figure>
     </div>
     <p class="lc-note lc-mt">Hardware matters as much as the gate: hinges rated for the weight, a latch that lines up after the posts settle, a drop rod for double gates, and a lockable latch where you want one.</p>
   </div>

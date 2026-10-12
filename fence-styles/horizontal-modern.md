@@ -17,7 +17,7 @@ faqs:
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
-    <figure class="lc-split-media">{% include photo.html src="1694885090746-d90472e11c0e" alt="Covered outdoor kitchen pavilion on a fenced backyard patio" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/horizontal-cedar.jpg" alt="New horizontal cedar fence with black steel posts beside a modern home" w=1000 %}</figure>
     <div>
       <p class="lc-kicker">The style</p>
       <h2>Boards turned on their side</h2>

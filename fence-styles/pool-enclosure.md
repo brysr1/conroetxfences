@@ -25,7 +25,7 @@ faqs:
       <p>Most pool fences around Conroe are black aluminum: it doesn&rsquo;t rust from splash, and you can watch the pool from the kitchen window. Where neighbors are close, a privacy section on one side can work alongside it.</p>
       <p>The gate is the part that matters most. A pool fence is only as safe as the gate that closes behind the last person through it.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1711114435495-76503f9f3181" alt="Modern home with a long rectangular swimming pool" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="1635108200867-ccb3f64d0082" alt="Backyard pool behind a black aluminum fence and gate" w=1000 %}</figure>
   </div>
 </section>
 
@@ -70,7 +70,7 @@ faqs:
 
 <section class="lc-section lc-section--sand">
   <div class="lc-wrap lc-split">
-    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="1711114378509-acc95d490b25" alt="Swimming pool with lounge chairs beside a modern house" w=1000 %}</figure>
+    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="1722247523679-698bd5781c7e" alt="Backyard pool surrounded by glass and black metal pool fencing" w=1000 %}</figure>
     <div>
       <p class="lc-kicker">Local conditions</p>
       <h2>Upkeep around the pool</h2>

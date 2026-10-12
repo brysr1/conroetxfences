@@ -15,7 +15,7 @@ faqs:
     a: "Many communities expect the finished side to face the street or common area. Shadowbox and board-on-board look good from both sides, which helps on shared lines."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Privacy" title="Privacy Fences" lede="Solid, full-height fencing that turns a new-construction backyard into a private one." image="1563052081-e410dc7b0b09" alt="House roofline seen over a long wood privacy fence" %}
+{% include page-hero.html kicker="Fence Styles · Privacy" title="Privacy Fences" lede="Solid, full-height fencing that turns a new-construction backyard into a private one." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence enclosing the backyard of a two-story home" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-prose">
