@@ -1,0 +1,47 @@
+{%- assign b = site.business -%}
+<footer class="lc-footer" role="contentinfo">
+  <svg class="lc-wave lc-wave--top" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60V28c120-18 240-28 360-20s240 30 360 30 240-22 360-30 240 2 360 20v32z"/></svg>
+  <div class="lc-wrap lc-footer-grid">
+    <div class="lc-footer-brand">
+      <a class="lc-brand lc-brand--light" href="{{ '/' | relative_url }}"><img src="{{ '/assets/images/logo-76-fence.png' | relative_url }}" alt="" width="34" height="44"><span class="lc-brand-name">76 Fence<small>of Conroe</small></span></a>
+      <p>Fences, gates, and repairs for Conroe, Willis, both shores of Lake Conroe, and the towns north and east toward Huntsville, Cleveland, and Lake Livingston.</p>
+      <p class="lc-footer-nap"><a href="tel:{{ b.phone_tel }}">{{ b.phone }}</a><br>{{ b.street }}<br>{{ b.city }}, {{ b.state }} {{ b.zip }}</p>
+      <a class="lc-btn lc-btn--sun lc-btn--sm" href="{{ b.book_url }}">Book a Free Estimate</a>
+    </div>
+    <div>
+      <p class="lc-footer-title">Services</p>
+      <ul>
+        {%- assign svc = site.data.navigation.main | where: "title", "Services" | first -%}
+        {%- for c in svc.children %}<li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>{%- endfor %}
+      </ul>
+    </div>
+    <div>
+      <p class="lc-footer-title">Service Areas</p>
+      <ul>
+        {%- for t in site.data.areas.towns %}<li><a href="{{ t.url | relative_url }}">{{ t.title }}, TX</a></li>{%- endfor %}
+        <li><a href="{{ '/neighborhoods/panorama-village/' | relative_url }}">Panorama Village</a></li>
+        <li><a href="{{ '/service-areas/' | relative_url }}">All neighborhoods &rarr;</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="lc-footer-title">Plan Your Fence</p>
+      <ul>
+        <li><a href="{{ '/materials/' | relative_url }}">Materials</a></li>
+        <li><a href="{{ '/fence-styles/' | relative_url }}">Fence Styles</a></li>
+        <li><a href="{{ '/pricing-guide/' | relative_url }}">Pricing Guide</a></li>
+        <li><a href="{{ '/process/' | relative_url }}">Our Process</a></li>
+        <li><a href="{{ '/financing/' | relative_url }}">Financing</a></li>
+        <li><a href="{{ '/warranty/' | relative_url }}">Warranty</a></li>
+        <li><a href="{{ '/faq/' | relative_url }}">FAQ</a></li>
+        <li><a href="{{ '/about/' | relative_url }}">About Us</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="lc-wrap lc-footer-family">
+    <p><strong>Part of the 76 Fence family.</strong> 76 Fence of Conroe is the local Conroe and Lake Conroe office of <a href="https://76fence.com/houston">76 Fence</a>, alongside <a href="https://magnoliatxfences.com">76 Fence of Magnolia</a> and <a href="https://northhoustonfence.com">76 Fence of North Houston</a>.</p>
+  </div>
+  <div class="lc-footer-bottom">
+    <div class="lc-wrap"><p>&copy; {{ site.time | date: "%Y" }} 76 Fence of Conroe &middot; <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></p></div>
+  </div>
+</footer>

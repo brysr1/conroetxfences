@@ -1,0 +1,13 @@
+<section class="lc-cta">
+  <div class="lc-wrap lc-cta-in">
+    <div>
+      <h2>{{ include.heading | default: "Let's walk your fence line" }}</h2>
+      <p>{{ include.text | default: "Call or text us, or book a time online. We'll measure, talk through options, and send a written quote." }}</p>
+    </div>
+    <div class="lc-btns">
+      <a class="lc-btn lc-btn--navy" href="{{ site.business.book_url }}">Book a Free Estimate</a>
+      <a class="lc-btn lc-btn--ghost-dark" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
+      <a class="lc-btn lc-btn--ghost-dark" href="sms:{{ site.business.phone_tel }}">Text us</a>
+    </div>
+  </div>
+</section>

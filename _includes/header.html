@@ -1,0 +1,101 @@
+{%- assign b = site.business -%}
+<div class="lc-topbar">
+  <div class="lc-wrap lc-topbar-in">
+    <span class="lc-topbar-loc"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>{{ b.street }}, {{ b.city }}, {{ b.state }} {{ b.zip }}</span>
+    <span class="lc-topbar-links"><a href="{{ '/financing/' | relative_url }}">Financing available</a><a href="{{ '/as-seen-on-hgtv/' | relative_url }}">As seen on HGTV</a></span>
+  </div>
+</div>
+<header class="lc-header" role="banner">
+  <div class="lc-wrap lc-header-in">
+    <a class="lc-brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo-76-fence.png' | relative_url }}" alt="" width="34" height="44">
+      <span class="lc-brand-name">76 Fence<small>of Conroe</small></span>
+    </a>
+    <nav class="lc-nav" id="lc-nav" aria-label="Main">
+      <ul>
+        {%- for item in site.data.navigation.main -%}
+        {%- assign has_sub = false -%}{%- if item.children or item.areas -%}{%- assign has_sub = true -%}{%- endif -%}
+        {%- assign here = false -%}
+        {%- if page.url == item.url -%}{%- assign here = true -%}{%- endif -%}
+        {%- if item.match and page.url contains item.match -%}{%- assign here = true -%}{%- endif -%}
+        {%- for c in item.children -%}{%- if page.url == c.url -%}{%- assign here = true -%}{%- endif -%}{%- endfor -%}
+        {%- if item.areas and page.url contains '/service-areas/' -%}{%- assign here = true -%}{%- endif -%}
+        <li class="{% if has_sub %}lc-has-sub{% if item.areas %} lc-has-mega{% endif %}{% endif %}{% if here %} is-here{% endif %}">
+          {%- if item.url %}<a class="lc-nav-link" href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          {%- else %}<button class="lc-nav-link lc-nav-heading" type="button">{{ item.title }}</button>{% endif %}
+          {%- if has_sub %}
+          <button class="lc-sub-toggle" type="button" aria-expanded="false" aria-label="Show {{ item.title }} pages"></button>
+          {%- if item.areas %}
+          <div class="lc-mega">
+            <div class="lc-mega-col lc-mega-towns">
+              <p class="lc-mega-title">Towns</p>
+              <ul>{%- for t in site.data.areas.towns %}<li><a href="{{ t.url | relative_url }}">{{ t.title }}, TX</a></li>{%- endfor %}</ul>
+              <a class="lc-mega-all" href="{{ '/service-areas/' | relative_url }}">All service areas &rarr;</a>
+            </div>
+            {%- for g in site.data.areas.groups %}
+            <div class="lc-mega-col">
+              <p class="lc-mega-title">{{ g.title }}</p>
+              <ul>{%- for c in g.items %}<li><a href="{{ c.url | relative_url }}"{% if page.url == c.url %} aria-current="page"{% endif %}>{{ c.title }}</a></li>{%- endfor %}</ul>
+            </div>
+            {%- endfor %}
+          </div>
+          {%- else %}
+          <ul class="lc-sub">
+            {%- for c in item.children %}<li><a href="{{ c.url | relative_url }}"{% if page.url == c.url %} aria-current="page"{% endif %}>{{ c.title }}</a></li>{%- endfor %}
+          </ul>
+          {%- endif %}
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+      <div class="lc-nav-mobile-cta">
+        <a class="lc-btn lc-btn--sun" href="{{ b.book_url }}">Book a Free Estimate</a>
+        <a class="lc-btn lc-btn--outline" href="tel:{{ b.phone_tel }}">Call {{ b.phone }}</a>
+      </div>
+    </nav>
+    <div class="lc-header-actions">
+      <a class="lc-header-phone" href="tel:{{ b.phone_tel }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 5a2 2 0 0 1 2-2"/></svg><span>{{ b.phone }}</span></a>
+      <a class="lc-btn lc-btn--sun lc-btn--sm" href="{{ b.book_url }}">Free Estimate</a>
+      <button class="lc-burger" type="button" aria-controls="lc-nav" aria-expanded="false" aria-label="Open menu"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+<div class="lc-dock" aria-label="Quick contact">
+  <a href="tel:{{ b.phone_tel }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h4l2 5-2.5 1.5a11 11 0 0 0 6 6L16 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 5a2 2 0 0 1 2-2"/></svg>Call</a>
+  <a href="sms:{{ b.phone_tel }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v12H8l-4 4z"/></svg>Text</a>
+  <a class="lc-dock-book" href="{{ b.book_url }}">Book a Free Estimate</a>
+</div>
+<script>
+(function () {
+  var burger = document.querySelector('.lc-burger');
+  var nav = document.getElementById('lc-nav');
+  if (!burger || !nav) return;
+  burger.addEventListener('click', function () {
+    var hd = document.querySelector('.lc-header');
+    if (hd) nav.style.top = Math.max(0, hd.getBoundingClientRect().bottom) + 'px';
+    var open = document.body.classList.toggle('lc-nav-open');
+    burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+    burger.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+  });
+  var items = nav.querySelectorAll('.lc-has-sub');
+  function close(li) { li.classList.remove('is-open'); var t = li.querySelector('.lc-sub-toggle'); if (t) t.setAttribute('aria-expanded', 'false'); }
+  items.forEach(function (li) {
+    var t = li.querySelector('.lc-sub-toggle');
+    var h = li.querySelector('.lc-nav-heading');
+    if (h) h.addEventListener('click', function () { t.click(); });
+    t.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var open = !li.classList.contains('is-open');
+      items.forEach(function (o) { if (o !== li) close(o); });
+      li.classList.toggle('is-open', open);
+      t.setAttribute('aria-expanded', String(open));
+    });
+  });
+  document.addEventListener('click', function (e) { if (!nav.contains(e.target)) items.forEach(close); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape') return;
+    items.forEach(close);
+    if (document.body.classList.contains('lc-nav-open')) burger.click();
+  });
+})();
+</script>

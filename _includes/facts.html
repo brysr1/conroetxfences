@@ -1,0 +1,13 @@
+{%- comment -%}
+Renders page.facts (list of {k, v}) as a fact sheet card. Params: title
+{%- endcomment -%}
+{%- if page.facts -%}
+<aside class="lc-facts">
+  <p class="lc-facts-title">{{ include.title | default: "At a glance" }}</p>
+  <dl>
+    {%- for f in page.facts %}
+    <div><dt>{{ f.k }}</dt><dd>{{ f.v | markdownify | remove: '<p>' | remove: '</p>' | strip }}</dd></div>
+    {%- endfor %}
+  </dl>
+</aside>
+{%- endif -%}

@@ -1,0 +1,21 @@
+{%- comment -%}
+Renders page.faqs (list of {q, a}) as an accordion plus FAQPage schema. Params: heading
+{%- endcomment -%}
+{%- if page.faqs -%}
+<section class="lc-section">
+  <div class="lc-wrap lc-faq-wrap">
+    <div class="lc-head">
+      <p class="lc-kicker">Questions</p>
+      <h2>{{ include.heading | default: "Common questions" }}</h2>
+    </div>
+    <div class="lc-faq">
+      {%- for f in page.faqs %}
+      <details><summary>{{ f.q }}</summary><div class="lc-faq-a">{{ f.a | markdownify }}</div></details>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for f in page.faqs -%}{"@type":"Question","name":{{ f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | markdownify | strip_html | strip | jsonify }}}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}]}
+</script>
+{%- endif -%}

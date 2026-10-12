@@ -1,0 +1,22 @@
+{%- comment -%}
+Inner-page hero. Params: kicker, title (defaults to page.title), lede, image (Unsplash id like 1593285247650-cd7bb44adcfd, or a /assets path), alt, pos (object-position)
+{%- endcomment -%}
+<section class="lc-phero">
+  <div class="lc-wrap lc-phero-in">
+    <div class="lc-phero-text">
+      {%- if page.crumb %}<nav class="lc-crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span>/</span><a href="{{ page.crumb.url | relative_url }}">{{ page.crumb.title }}</a></nav>{% endif %}
+      {%- if include.kicker %}<p class="lc-kicker lc-kicker--light">{{ include.kicker }}</p>{% endif %}
+      <h1>{{ include.title | default: page.title }}</h1>
+      {%- if include.lede %}<p class="lc-phero-lede">{{ include.lede }}</p>{% endif %}
+      <div class="lc-btns">
+        <a class="lc-btn lc-btn--sun" href="{{ site.business.book_url }}">Book a Free Estimate</a>
+        <a class="lc-btn lc-btn--outline" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
+      </div>
+    </div>
+    {%- if include.image %}
+    <figure class="lc-phero-media">{% include photo.html src=include.image alt=include.alt w=1100 pos=include.pos %}</figure>
+    {%- endif %}
+  </div>
+  <svg class="lc-wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60V28c120-18 240-28 360-20s240 30 360 30 240-22 360-30 240 2 360 20v32z"/></svg>
+</section>
+{% include trust.html %}

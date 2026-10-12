@@ -1,0 +1,1 @@
+{%- capture u -%}{%- if include.src contains '/' -%}{{ include.src | relative_url }}{%- else -%}https://images.unsplash.com/photo-{{ include.src }}?auto=format&fit=crop&w={{ include.w | default: 1200 }}&q={{ include.q | default: 72 }}{%- endif -%}{%- endcapture -%}{{ u | strip }}

@@ -1,0 +1,7 @@
+{%- comment -%} Lists neighborhood chips for groups whose hub == include.hub {%- endcomment -%}
+{%- for g in site.data.areas.groups -%}{%- if g.hub == include.hub -%}
+<div class="lc-area-group">
+  <h3>{{ g.title }}</h3>
+  <ul class="lc-chips">{%- for c in g.items %}<li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>{%- endfor %}</ul>
+</div>
+{%- endif -%}{%- endfor -%}
