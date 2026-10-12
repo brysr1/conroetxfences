@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+{%- include head.html -%}
+<body class="{% if page.layout == 'home' %}is-home{% endif %}">
+<a class="lc-skip" href="#main">Skip to content</a>
+{%- include header.html -%}
+<main id="main" class="lc-main">
+{{ content }}
+</main>
+{%- include footer.html -%}
+</body>
+</html>
