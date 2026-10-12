@@ -465,3 +465,10 @@ ul, ol { padding-left: 1.2em; }
   *, *::before, *::after { transition: none !important; scroll-behavior: auto !important; }
 }
 @media (max-width: 900px) { .is-home .lc-trust { margin-top: 18px; } }
+/* Chips without links (e.g. "Good fit for" lists) */
+.lc-chips li:not(:has(a)) { display: inline-block; padding: 8px 15px; border-radius: 99px; background: var(--white); border: 1px solid var(--line); color: var(--navy); font-size: .93rem; font-weight: 500; }
+.lc-section--sky .lc-chips li:not(:has(a)), .lc-section--sand .lc-chips li:not(:has(a)) { border-color: transparent; }
+/* HGTV logo: show the whole logo, never cropped */
+.lc-split-media img.lc-logo-hgtv { aspect-ratio: auto; object-fit: contain; width: 100%; max-width: 300px; height: auto; margin: 0 auto; border-radius: 0; box-shadow: none; }
+/* About team photo */
+.lc-split-media img.lc-team-photo { aspect-ratio: auto; object-fit: cover; object-position: 50% 60%; }
