@@ -26,7 +26,7 @@ faqs:
       <p>Because the boards are solid and straight, composite works well for full-privacy fences and for the horizontal designs that are popular on newer homes. It is a premium material, priced near the top of the range alongside ornamental metal.</p>
       <p>It suits people who plan to stay put. Once it&rsquo;s up, you won&rsquo;t spend weekends staining it.</p>
     </div>
-    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="/assets/images/fences/composite-board-on-board.jpg" alt="Brown composite board-on-board privacy fence with capped composite post and top and bottom rails" w=1000 %}</figure>
+    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="/assets/images/fences/composite-backyard-wide.jpg" alt="Brown composite board-on-board privacy fence along a landscaped backyard" w=1000 %}</figure>
   </div>
 </section>
 
