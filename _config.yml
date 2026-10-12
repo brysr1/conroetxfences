@@ -1,0 +1,34 @@
+title: 76 Fence of Conroe
+description: Fence installation and repair for Conroe, Willis, Lake Conroe, Huntsville, Cleveland, and the Lake Livingston area. Wood, iron, vinyl, chain link, HOA, and acreage fencing.
+url: https://conroetxfences.com
+lang: en_US
+logo: /assets/images/logo-76-fence.png
+
+# Business details, used across the site
+business:
+  name: 76 Fence of Conroe
+  phone: (713) 331-9419
+  phone_tel: "+17133319419"
+  street: 1135 Grand Central Pkwy
+  city: Conroe
+  state: TX
+  zip: "77304"
+  book_url: https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=conroetxfences&utm_medium=website&utm_campaign=site_booking
+  form_action: https://formspree.io/f/maeqqoog
+
+# Add a GA4 measurement ID (G-XXXXXXX) and Search Console code when they exist
+google_analytics:
+google_site_verification:
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - README.md
