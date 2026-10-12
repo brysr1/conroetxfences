@@ -5,7 +5,7 @@ description: The 76 Fence family built fences for three Worst Yard on the Block 
 permalink: /as-seen-on-hgtv/
 ---
 
-{% include page-hero.html kicker="Featured on TV" title="As seen on HGTV" lede="76 Fence crews built the fences for three Season 1 episodes of Worst Yard on the Block on HGTV, each one on a TV production schedule." image="/assets/images/fences/crew-building-fence.jpg" alt="Fence crew attaching new cedar pickets to a privacy fence" %}
+{% include page-hero.html kicker="Featured on TV" title="As seen on HGTV" lede="76 Fence crews built the fences for three Season 1 episodes of Worst Yard on the Block on HGTV, each one on a TV production schedule." image="/assets/images/fences/fence-build-drill.jpg" alt="Fence installer fastening a new cedar picket to the rails with a cordless drill" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
