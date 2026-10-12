@@ -16,10 +16,13 @@ faqs:
 {% include page-hero.html kicker="Fence Styles · Ornamental" title="Ornamental Fences" lede="Slim metal pickets that frame a house, lake, or fairway instead of hiding it." image="1746311529146-b22d1e4524d7" alt="Two-story house behind a black ornamental metal fence" %}
 
 <section class="lc-section">
-  <div class="lc-wrap lc-prose">
+  <div class="lc-wrap lc-split lc-split--wide-text">
+    <div class="lc-prose">
     <h2>A formal edge you can see through</h2>
     <p>Ornamental fencing is the style; <a href="/materials/ornamental-steel-aluminum/">aluminum and steel</a> are the materials. Vertical pickets run between two or three rails, with flat tops, spear points, or finials, and gates that can be arched or flat.</p>
     <p>It shows up wherever the view matters: in front of a two-story home, along a golf hole, around a pool, or at the back of a lake lot. It looks the same from both sides and doesn&rsquo;t compete with the landscaping.</p>
+    </div>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/ornamental-lake-lawn.jpg" alt="New black aluminum ornamental fence and arched walk gate along a lawn with a lake view" w=1000 %}</figure>
   </div>
 </section>
 
