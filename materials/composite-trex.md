@@ -15,7 +15,7 @@ faqs:
     a: "Some guidelines don't mention it yet, and others treat it like wood or like vinyl. We check what your community's current guidelines say and include product details in the submittal."
 ---
 
-{% include page-hero.html kicker="Materials · Composite" title="Composite Fences" lede="The look of a stained wood fence, with no sealing, no rot, and no termites, for owners planning to stay a long time." image="1543751416-705d3e34d02a" alt="Dark-stained horizontal wood slats" %}
+{% include page-hero.html kicker="Materials · Composite" title="Composite Fences" lede="The look of a stained wood fence, with no sealing, no rot, and no termites, for owners planning to stay a long time." image="/assets/images/fences/composite-gray-patio.jpg" alt="New gray composite fence around a modern patio" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
@@ -26,7 +26,7 @@ faqs:
       <p>Because the boards are solid and straight, composite works well for full-privacy fences and for the horizontal designs that are popular on newer homes. It is a premium material, priced near the top of the range alongside ornamental metal.</p>
       <p>It suits people who plan to stay put. Once it&rsquo;s up, you won&rsquo;t spend weekends staining it.</p>
     </div>
-    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="1686144846319-1bcb4cb798c3" alt="Horizontal wood fence boards with climbing vines and small yellow flowers" w=1000 %}</figure>
+    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="/assets/images/fences/composite-closeup.jpg" alt="Brown composite fence boards set in a black aluminum post" w=1000 %}</figure>
   </div>
 </section>
 

@@ -26,7 +26,7 @@ faqs:
       <p>Two species do most of the work. Western red cedar has a reddish tone and natural oils that slow rot and insects. Pressure-treated pine is less expensive, a little plainer, and holds stain well. If a picket cracks or a mower clips a board, the repair is a single board and a few nails.</p>
       <p>How long a wood fence lasts here comes down to three things: posts set for the soil, boards kept off the ground, and a sealer that goes on early and gets renewed.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1581573231179-760e76ddf5d3" alt="Close view of warm stained wood grain" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/cedar-pickets-closeup.jpg" alt="Close view of new dog-ear cedar fence pickets" w=1000 %}</figure>
   </div>
 </section>
 
@@ -67,9 +67,9 @@ faqs:
       <p class="lc-lede">The same lumber can be put together several ways. Each one changes the privacy, the look from the neighbor&rsquo;s side, and how much material goes into the quote.</p>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card">{% include photo.html src="1525947088131-b701cd0f6dc3" alt="Dark brown wood grain boards" w=700 %}<div class="lc-card-body"><h3>Side-by-side pickets</h3><p>Boards butted edge to edge on two or three rails. The lowest-cost privacy build, though small gaps can show once the wood dries.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1546484396-fb3fc6f95f98" alt="Dark-stained wood boards" w=700 %}<div class="lc-card-body"><h3>Board-on-board</h3><p>A second layer of pickets overlaps the first, so the fence stays solid even after a dry summer. Uses more lumber.</p><a class="lc-more" href="/fence-styles/privacy/">Privacy fences</a></div></div>
-      <div class="lc-card">{% include photo.html src="1584225064281-429e7fce4961" alt="Cedar slat privacy screen beside a gravel fire pit area" w=700 %}<div class="lc-card-body"><h3>Shadowbox &amp; spaced slats</h3><p>Boards alternate on each side of the rails, or sit with a set gap, so both yards get a good-looking side and air can pass.</p><a class="lc-more" href="/fence-styles/semi-privacy/">Semi-privacy fences</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/side-by-side-pickets.jpg" alt="New side-by-side cedar picket privacy fence" w=700 %}<div class="lc-card-body"><h3>Side-by-side pickets</h3><p>Boards butted edge to edge on two or three rails. The lowest-cost privacy build, though small gaps can show once the wood dries.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/board-on-board.jpg" alt="New stained board-on-board cedar fence with a top cap" w=700 %}<div class="lc-card-body"><h3>Board-on-board</h3><p>A second layer of pickets overlaps the first, so the fence stays solid even after a dry summer. Uses more lumber.</p><a class="lc-more" href="/fence-styles/privacy/">Privacy fences</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/shadowbox-closeup.jpg" alt="Close view of a new cedar shadowbox fence" w=700 %}<div class="lc-card-body"><h3>Shadowbox &amp; spaced slats</h3><p>Boards alternate on each side of the rails, or sit with a set gap, so both yards get a good-looking side and air can pass.</p><a class="lc-more" href="/fence-styles/semi-privacy/">Semi-privacy fences</a></div></div>
     </div>
     <p class="lc-note lc-mt">Add-ons that change the look: a top cap and trim board, a rot board along the bottom, steel posts hidden behind the pickets, and a stain chosen from the start.</p>
   </div>

@@ -15,7 +15,7 @@ faqs:
     a: "Some limit it, especially where it faces a street. We check the current rules for your property before quoting and suggest a coated or alternative option if bare galvanized isn't allowed."
 ---
 
-{% include page-hero.html kicker="Materials · Chain Link" title="Chain Link Fences" lede="The low-cost, low-fuss fence for dog runs, back lines, rural lots, and commercial yards around Conroe." image="1615148304299-0d84ba28e57a" alt="Chain link fence mesh against bright blue sky" %}
+{% include page-hero.html kicker="Materials · Chain Link" title="Chain Link Fences" lede="The low-cost, low-fuss fence for dog runs, back lines, rural lots, and commercial yards around Conroe." image="/assets/images/fences/chain-link-galvanized.jpg" alt="New galvanized chain link fence around a green backyard" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">
@@ -24,7 +24,7 @@ faqs:
       <p>Chain link is woven steel wire stretched between round posts and held tight by a top rail and tension bands. It won&rsquo;t hide anything, but it keeps dogs, kids, and equipment where they belong, and it costs less per foot than any other fence we build for most jobs.</p>
       <p>Bright galvanized wire is the economy version. Black or green vinyl-coated mesh, with matching posts, fades into a treeline and looks far more finished from the porch. Heavier gauges and taller heights are used for commercial lots and storage yards.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1551948525-4201c01c03ae" alt="Close view of a chain link fence and post against blue sky" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/chain-link-black.jpg" alt="New black vinyl-coated chain link fence with a walk gate" w=1000 %}</figure>
   </div>
 </section>
 
@@ -54,7 +54,7 @@ faqs:
       <h2>Ways to spec a chain link fence</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card">{% include photo.html src="1604177772275-192ba9fe877e" alt="Galvanized chain link fence mesh" w=700 %}<div class="lc-card-body"><h3>Galvanized</h3><p>Zinc-coated steel in the classic silver. The budget choice for back lines, garden enclosures, and equipment areas.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/chain-link-detail.jpg" alt="New galvanized chain link mesh, line post, and top rail" w=700 %}<div class="lc-card-body"><h3>Galvanized</h3><p>Zinc-coated steel in the classic silver. The budget choice for back lines, garden enclosures, and equipment areas.</p></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Black or green coated</h3><p>A bonded vinyl jacket over the wire, with coated posts and fittings to match. Adds rust protection and looks tidier from the house.</p><h3>Privacy slats</h3><p>Strips woven through the diamonds to block most of the view on a budget.</p><a class="lc-more" href="/fence-styles/semi-privacy/">Semi-privacy</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Commercial weight</h3><p>Heavier wire, thicker posts, and taller heights, with options for barbed or security tops where they fit the property.</p><a class="lc-more" href="/commercial-fencing/">Commercial fencing</a><h3>Dog runs &amp; kennels</h3><p>Smaller enclosures with a gate and a dig barrier along the bottom.</p><a class="lc-more" href="/fence-styles/pet/">Pet fences</a></div></div>
     </div>

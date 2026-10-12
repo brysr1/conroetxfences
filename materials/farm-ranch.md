@@ -17,7 +17,7 @@ faqs:
     a: "Walk it after every big storm and at least once or twice a year. Look for limbs on the wire, loose staples or clips, and posts that have moved."
 ---
 
-{% include page-hero.html kicker="Materials · Farm &amp; Ranch" title="Farm &amp; Ranch Fence Materials" lede="Wire, pipe, and board fencing for pasture, livestock, and long property lines north and east of Conroe." image="1732123280078-27d7997ab0fb" alt="Horses grazing in a pasture with a wood rail fence" %}
+{% include page-hero.html kicker="Materials · Farm &amp; Ranch" title="Farm &amp; Ranch Fence Materials" lede="Wire, pipe, and board fencing for pasture, livestock, and long property lines north and east of Conroe." image="/assets/images/fences/ranch-black-board.jpg" alt="New black four-board ranch fence across a pasture with horses" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">
@@ -26,7 +26,7 @@ faqs:
       <p>Ranch fencing isn&rsquo;t one product. A cattle pasture, a horse paddock, a goat pen, and a mile of road frontage each call for something different, and most acreage ends up with a mix: something good-looking out front, something economical across the back.</p>
       <p>What every one of them has in common is the hardware you don&rsquo;t notice. Corner posts, H-braces, and gate posts hold the tension for the whole line. We spend the most time on those, because that is where a ranch fence either stays tight or starts to sag.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="1659809664800-bdeeb61a6950" alt="Rough wooden ranch fence with a green treeline behind" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/pipe-fence-gate.jpg" alt="New green steel pipe ranch fence and gate under live oaks" w=1000 %}</figure>
   </div>
 </section>
 
@@ -37,9 +37,9 @@ faqs:
       <h2>Ranch materials we install</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card">{% include photo.html src="1731012375571-2e3d0934777a" alt="Horses in a fenced pasture with tall trees" w=700 %}<div class="lc-card-body"><h3>Field wire &amp; no-climb</h3><p>Woven wire for cattle, goats, and dogs, and tight-weave no-climb mesh for horses. Nearly invisible from a distance.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1682458854587-e9dcfcbdbb2a" alt="Texas wildflowers along a barbed wire fence line" w=700 %}<div class="lc-card-body"><h3>Barbed wire</h3><p>The traditional cattle fence and the lowest cost per foot on long runs. Not a horse fence.</p></div></div>
-      <div class="lc-card">{% include photo.html src="1566780999419-37677b1ec500" alt="Horse looking over a wooden board fence" w=700 %}<div class="lc-card-body"><h3>Board &amp; rail</h3><p>Wood boards or rails on square posts for front pastures, paddocks, and road frontage.</p><a class="lc-more" href="/fence-styles/split-rail/">Rail fences</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/field-wire-no-climb.jpg" alt="New woven-wire field fence on wood posts along a pasture" w=700 %}<div class="lc-card-body"><h3>Field wire &amp; no-climb</h3><p>Woven wire for cattle, goats, and dogs, and tight-weave no-climb mesh for horses. Nearly invisible from a distance.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/barbed-wire-cattle.jpg" alt="New barbed wire fence on steel T-posts with cattle behind" w=700 %}<div class="lc-card-body"><h3>Barbed wire</h3><p>The traditional cattle fence and the lowest cost per foot on long runs. Not a horse fence.</p></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/white-board-paddock.jpg" alt="New white three-board paddock fence around a horse pasture" w=700 %}<div class="lc-card-body"><h3>Board &amp; rail</h3><p>Wood boards or rails on square posts for front pastures, paddocks, and road frontage.</p><a class="lc-more" href="/fence-styles/split-rail/">Rail fences</a></div></div>
     </div>
     <div class="lc-grid lc-grid-2 lc-mt">
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Welded pipe</h3><p>Steel pipe posts and rails for pens, arenas, entries, and anywhere livestock lean hard. Strong and long-lived, with paint touch-ups to keep rust off.</p></div></div>
@@ -89,7 +89,7 @@ faqs:
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
-    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="1769312246494-3a608a29b110" alt="Wooden post-and-rail fence across a shady green pasture" w=1000 %}</figure>
+    <figure class="lc-split-media lc-split-media--alt">{% include photo.html src="/assets/images/fences/horses-no-climb.jpg" alt="Horses grazing in a pine-ringed pasture behind a new ranch fence" w=1000 %}</figure>
     <div>
       <p class="lc-kicker">Good fit for</p>
       <h2>What are you fencing?</h2>

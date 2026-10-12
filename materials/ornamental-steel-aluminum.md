@@ -19,7 +19,7 @@ faqs:
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
-    <figure class="lc-split-media">{% include photo.html src="1648330962195-e24db02dfd84" alt="Black iron fence with ball finials beside a building" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/aluminum-lakefront.jpg" alt="New black aluminum ornamental fence along a lakefront lawn" w=1000 %}</figure>
     <div>
       <p class="lc-kicker">The look</p>
       <h2>Open pickets, solid boundary</h2>
