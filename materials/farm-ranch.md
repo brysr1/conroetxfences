@@ -26,7 +26,7 @@ faqs:
       <p>Ranch fencing isn&rsquo;t one product. A cattle pasture, a horse paddock, a goat pen, and a mile of road frontage each call for something different, and most acreage ends up with a mix: something good-looking out front, something economical across the back.</p>
       <p>What every one of them has in common is the hardware you don&rsquo;t notice. Corner posts, H-braces, and gate posts hold the tension for the whole line. We spend the most time on those, because that is where a ranch fence either stays tight or starts to sag.</p>
     </div>
-    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/ranch-h-brace-gate.jpg" alt="New wood H-brace corner with a galvanized pipe gate and woven-wire field fence under tall pines" w=1000 %}</figure>
+    <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/ranch-h-brace-pines.jpg" alt="New wood H-brace corner with a galvanized pipe gate and woven-wire field fence under tall pines" w=1000 %}</figure>
   </div>
 </section>
 
