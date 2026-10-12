@@ -1,0 +1,62 @@
+# Every service-area page on the site. Header, footer, and hub pages read this list.
+# hub: which town page a neighborhood is listed under
+towns:
+  - { title: "Conroe", url: /service-areas/conroe-tx/, slug: conroe }
+  - { title: "Willis", url: /service-areas/willis-tx/, slug: willis }
+  - { title: "Huntsville", url: /service-areas/huntsville-tx/, slug: huntsville }
+  - { title: "Lake Livingston", url: /service-areas/lake-livingston-tx/, slug: lake-livingston }
+  - { title: "Cleveland", url: /service-areas/cleveland-tx/, slug: cleveland }
+
+groups:
+  - title: Conroe
+    hub: conroe
+    items:
+      - { title: Grand Central Park, url: /neighborhoods/grand-central-park/ }
+      - { title: Evergreen, url: /neighborhoods/evergreen/ }
+      - { title: Cielo, url: /neighborhoods/cielo/ }
+      - { title: The Woodlands Hills, url: /neighborhoods/the-woodlands-hills/ }
+      - { title: Mavera, url: /neighborhoods/mavera/ }
+      - { title: Harper's Preserve, url: /neighborhoods/harpers-preserve/ }
+      - { title: Artavia, url: /neighborhoods/artavia/ }
+      - { title: Graystone Hills, url: /neighborhoods/graystone-hills/ }
+      - { title: Teaswood, url: /neighborhoods/teaswood/ }
+      - { title: Silverstone, url: /neighborhoods/silverstone/ }
+      - { title: Deer Trail Estates, url: /neighborhoods/deer-trail-estates/ }
+      - { title: Red Oak Ranch, url: /neighborhoods/red-oak-ranch/ }
+      - { title: Panorama Village, url: /neighborhoods/panorama-village/ }
+  - title: South Conroe & Spring
+    hub: conroe
+    items:
+      - { title: River Plantation, url: /neighborhoods/river-plantation/ }
+      - { title: Lake Chateau Woods, url: /neighborhoods/lake-chateau-woods/ }
+      - { title: Imperial Oaks, url: /neighborhoods/imperial-oaks/ }
+  - title: Willis & East Lake Conroe
+    hub: willis
+    items:
+      - { title: Point Aquarius, url: /neighborhoods/point-aquarius/ }
+      - { title: Seven Coves, url: /neighborhoods/seven-coves/ }
+      - { title: Water Crest on Lake Conroe, url: /neighborhoods/water-crest-on-lake-conroe/ }
+      - { title: Lake Conroe Hills, url: /neighborhoods/lake-conroe-hills/ }
+      - { title: Deer Forest, url: /neighborhoods/deer-forest/ }
+  - title: Huntsville
+    hub: huntsville
+    items:
+      - { title: Elkins Lake, url: /neighborhoods/elkins-lake/ }
+      - { title: Texas Grand Ranch, url: /neighborhoods/texas-grand-ranch/ }
+      - { title: The Reserve at Huntsville, url: /neighborhoods/the-reserve-at-huntsville/ }
+  - title: Lake Livingston
+    hub: lake-livingston
+    items:
+      - { title: Waterwood, url: /neighborhoods/waterwood/ }
+      - { title: Cape Royale, url: /neighborhoods/cape-royale/ }
+      - { title: Westwood Shores, url: /neighborhoods/westwood-shores/ }
+      - { title: The Shores at Lake Livingston, url: /neighborhoods/the-shores-at-lake-livingston/ }
+      - { title: Island View Ranch Estates, url: /neighborhoods/island-view-ranch-estates/ }
+      - { title: The Channel at Cedar Point, url: /neighborhoods/the-channel-at-cedar-point/ }
+  - title: Cleveland
+    hub: cleveland
+    items:
+      - { title: Colony Ridge, url: /neighborhoods/colony-ridge/ }
+      - { title: Southern Crossing, url: /neighborhoods/southern-crossing/ }
+      - { title: Big Thicket Lake Estates, url: /neighborhoods/big-thicket-lake-estates/ }
+      - { title: Encino Estates, url: /neighborhoods/encino-estates/ }

@@ -1,0 +1,53 @@
+# Main menu. `children` = dropdown. The Service Areas menu is built from _data/areas.yml.
+main:
+  - title: Services
+    match: /services/
+    children:
+      - { title: Residential Fencing, url: /residential-fencing/ }
+      - { title: Commercial Fencing, url: /commercial-fencing/ }
+      - { title: HOA & Community Fencing, url: /hoa-fencing/ }
+      - { title: Acreage & Ranch Fencing, url: /acreage-ranch-fencing/ }
+      - { title: Fence Repair & Maintenance, url: /maintenance-repair/ }
+      - { title: Staining & Power Washing, url: /fence-staining-power-washing/ }
+      - { title: Security Fencing, url: /security-fencing/ }
+      - { title: Dumpster Enclosures, url: /dumpster-enclosures/ }
+  - title: Materials
+    url: /materials/
+    match: /materials/
+    children:
+      - { title: Wood & Cedar, url: /materials/wood-cedar/ }
+      - { title: Vinyl, url: /materials/vinyl/ }
+      - { title: Ornamental Steel & Aluminum, url: /materials/ornamental-steel-aluminum/ }
+      - { title: Chain Link, url: /materials/chain-link/ }
+      - { title: Composite, url: /materials/composite-trex/ }
+      - { title: Farm & Ranch, url: /materials/farm-ranch/ }
+  - title: Styles
+    url: /fence-styles/
+    match: /fence-styles/
+    children:
+      - { title: Privacy, url: /fence-styles/privacy/ }
+      - { title: Semi-Privacy, url: /fence-styles/semi-privacy/ }
+      - { title: Picket, url: /fence-styles/picket/ }
+      - { title: Horizontal & Modern, url: /fence-styles/horizontal-modern/ }
+      - { title: Ornamental, url: /fence-styles/ornamental/ }
+      - { title: Pool Enclosure, url: /fence-styles/pool-enclosure/ }
+      - { title: Split Rail, url: /fence-styles/split-rail/ }
+      - { title: Gates & Openers, url: /fence-styles/gates/ }
+      - { title: Pet & Dog Fences, url: /fence-styles/pet/ }
+  - title: Service Areas
+    url: /service-areas/
+    match: /neighborhoods/
+    areas: true
+  - title: Pricing
+    url: /pricing-guide/
+  - title: About
+    url: /about/
+    children:
+      - { title: About Us, url: /about/ }
+      - { title: Our Process, url: /process/ }
+      - { title: Warranty, url: /warranty/ }
+      - { title: Financing, url: /financing/ }
+      - { title: As Seen on HGTV, url: /as-seen-on-hgtv/ }
+      - { title: FAQ, url: /faq/ }
+  - title: Contact
+    url: /contact/
