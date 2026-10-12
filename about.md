@@ -17,7 +17,7 @@ permalink: /about/
       <p>The team is small on purpose. The person who walks your property and writes the quote stays involved through the build, and that same person is the one who answers when you call later.</p>
     </div>
     <figure class="lc-split-media">
-      {% include photo.html src="1625602812206-5ec545ca1231" alt="Craftsman-style home with a covered front porch" w=1000 %}
+      <img class="lc-team-photo" src="{{ '/assets/images/about-team.jpg' | relative_url }}" width="1200" height="1012" alt="Owner Bryan Hayes and general manager Byron Dean in 76 Fence polos beside a 76 Fence truck and a paint horse in a pasture" loading="lazy">
     </figure>
   </div>
 </section>

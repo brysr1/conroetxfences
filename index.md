@@ -7,7 +7,6 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
 <section class="lc-hero">
   <div class="lc-wrap lc-hero-in">
     <div>
-      <span class="lc-chip">Local office in Grand Central Park, Conroe</span>
       <h1>Fences built for <em>Conroe</em> and the Lake Conroe life.</h1>
       <p class="lc-hero-lede">New fences, gates, and repairs for homes, lake lots, acreage, and businesses, from new subdivisions off Loop 336 to waterfront lots on the east shore and ranch land up toward Huntsville.</p>
       <div class="lc-btns">
@@ -47,7 +46,7 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
 <section class="lc-section lc-section--sand">
   <div class="lc-wrap lc-split">
     <figure class="lc-split-media lc-split-media--alt">
-      {% include photo.html src="1661258825056-159d1fdfc886" alt="Country road beside an old post fence at sunset" w=1000 %}
+      {% include photo.html src="/assets/images/fences/cedar-privacy-backyard.jpg" alt="New stained cedar privacy fence along a landscaped backyard" w=1000 %}
     </figure>
     <div>
       <p class="lc-kicker">Why 76 Fence of Conroe</p>
@@ -72,10 +71,10 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
     </div>
     <div class="lc-grid lc-grid-3">
       <div class="lc-card">{% include photo.html src="1786726981132-5988ae44f028" alt="Warm stained vertical fence boards with a green leafy branch" w=700 %}<div class="lc-card-body"><h3>Wood &amp; cedar</h3><p>The classic privacy fence, stained to match the house.</p><a class="lc-more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar</a></div></div>
-      <div class="lc-card">{% include photo.html src="1594939473645-b46253689cae" alt="White solid-panel vinyl fence in front of a house" w=700 %}<div class="lc-card-body"><h3>Vinyl</h3><p>Clean lines, no staining, and no rot.</p><a class="lc-more" href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></div></div>
-      <div class="lc-card">{% include photo.html src="1508263073532-98ed924de82d" alt="Black metal fence catching golden sunset light" w=700 %}<div class="lc-card-body"><h3>Ornamental steel &amp; aluminum</h3><p>Security without blocking the lake or fairway view.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/vinyl-privacy.jpg" alt="New white vinyl privacy fence around a backyard" w=700 %}<div class="lc-card-body"><h3>Vinyl</h3><p>Clean lines, no staining, and no rot.</p><a class="lc-more" href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></div></div>
+      <div class="lc-card">{% include photo.html src="1621271697043-8f80216904e1" alt="Black aluminum fence along a green lawn with shade trees" w=700 %}<div class="lc-card-body"><h3>Ornamental steel &amp; aluminum</h3><p>Security without blocking the lake or fairway view.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
       <div class="lc-card">{% include photo.html src="1617871709577-28394fdf55fa" alt="Chain link fence with green trees behind" w=700 %}<div class="lc-card-body"><h3>Chain link</h3><p>Low cost and hard-wearing for dog runs, side yards, and commercial lots.</p><a class="lc-more" href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></div></div>
-      <div class="lc-card">{% include photo.html src="1774835750723-b1e1ded2ad69" alt="Woven horizontal fence panel" w=700 %}<div class="lc-card-body"><h3>Composite</h3><p>Wood-like boards that skip the sanding and staining cycle.</p><a class="lc-more" href="{{ '/materials/composite-trex/' | relative_url }}">Composite</a></div></div>
+      <div class="lc-card">{% include photo.html src="/assets/images/fences/composite-walnut.jpg" alt="New walnut-brown composite fence with black aluminum posts" w=700 %}<div class="lc-card-body"><h3>Composite</h3><p>Wood-like boards that skip the sanding and staining cycle.</p><a class="lc-more" href="{{ '/materials/composite-trex/' | relative_url }}">Composite</a></div></div>
       <div class="lc-card">{% include photo.html src="1779202810341-3310cbd07777" alt="Farmhouse behind a black board fence and open pasture" w=700 %}<div class="lc-card-body"><h3>Farm &amp; ranch</h3><p>Wire, pipe, and board fence built for pasture, livestock, and long runs.</p><a class="lc-more" href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch</a></div></div>
     </div>
   </div>
