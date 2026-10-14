@@ -46,7 +46,7 @@ permalink: /privacy-policy/
     <p>We may change this policy from time to time. The &ldquo;last updated&rdquo; date at the top shows when the most recent change was made.</p>
 
     <h2>How to reach us</h2>
-    <p>76 Fence of Conroe<br>1135 Grand Central Pkwy, Conroe, TX 77304<br><a href="tel:+17133319419">(713) 331-9419</a></p>
+    <p>76 Fence of Conroe<br>1135 Grand Central Pkwy, Suite 250, Conroe, TX 77304<br><a href="tel:+17133319419">(713) 331-9419</a></p>
   </div>
 </section>
 
