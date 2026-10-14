@@ -11,7 +11,6 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
       <p class="lc-hero-lede">New fences, gates, and repairs for homes, lake lots, acreage, and businesses, from new subdivisions off Loop 336 to waterfront lots on the east shore and ranch land up toward Huntsville.</p>
       <div class="lc-btns">
         <a class="lc-btn lc-btn--sun" href="{{ site.business.book_url }}">Book a Free Estimate</a>
-        <a class="lc-btn lc-btn--outline" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
       </div>
       <div class="lc-hero-meta"><span>Wood, iron, vinyl, chain link</span><span>HOA submittals handled</span><span>811 locates before we dig</span></div>
     </div>
