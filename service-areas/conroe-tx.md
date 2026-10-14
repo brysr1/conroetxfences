@@ -10,7 +10,7 @@ facts:
   - { k: "Land area", v: "About 72 sq mi" }
   - { k: "Main roads", v: "I-45, SH 105, Loop 336, SH 75 (N. Frazier St.), League Line Rd, FM 1484, FM 1488, SH 242" }
   - { k: "Common ZIPs", v: "77301, 77302, 77303, 77304, plus 77384 and 77385 to the south" }
-  - { k: "Our office", v: "1135 Grand Central Pkwy, Conroe 77304" }
+  - { k: "Our office", v: "1135 Grand Central Pkwy, Suite 250, Conroe 77304" }
 faqs:
   - q: "Do I need a city permit for a fence in Conroe?"
     a: "Only property inside Conroe city limits falls under the City of Conroe's Building Inspections and Permits department. A lot of Conroe-address subdivisions sit in unincorporated Montgomery County instead. We check which applies to your address and handle any permit step before the build."
