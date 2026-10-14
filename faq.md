@@ -43,7 +43,18 @@ faqs:
 <section class="lc-section lc-section--tight">
   <div class="lc-wrap">
     <p class="lc-lede">If your question is not answered here, call or text <a href="tel:{{ site.business.phone_tel }}">{{ site.business.phone }}</a> and you will reach someone on the local team.</p>
-    <p class="lc-related"><strong>Jump to:</strong> <a href="#faq-main">Permits, lake lots, service area &amp; payment</a> · <a href="#faq-build">Building, materials &amp; upkeep</a></p>
+    <p class="lc-related"><strong>Jump to:</strong> <a href="#faq-deep">In-depth answers</a> · <a href="#faq-main">Permits, lake lots, service area &amp; payment</a> · <a href="#faq-build">Building, materials &amp; upkeep</a></p>
+  </div>
+</section>
+
+<section class="lc-section lc-section--sky" id="faq-deep">
+  <div class="lc-wrap">
+    <div class="lc-head">
+      <p class="lc-kicker">In depth</p>
+      <h2>The big questions, one page each</h2>
+      <p>Some answers need more than a paragraph. These pages go further on the questions that decide how a fence gets built.</p>
+    </div>
+    {% include article-list.html kind="faq" topics="Before you build|Materials, weather & lifespan|Hiring a fence company" %}
   </div>
 </section>
 
