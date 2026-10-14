@@ -1,0 +1,22 @@
+  </div>
+</section>
+{%- if page.related %}
+<section class="lc-section lc-section--sand lc-article-related">
+  <div class="lc-wrap">
+    <div class="lc-head"><p class="lc-kicker">Keep reading</p><h2>Related answers</h2></div>
+    <div class="lc-grid lc-grid-3">
+      {%- for r in page.related %}
+      {%- assign rp = site.pages | where: "url", r | first %}
+      {%- if rp %}
+      <a class="lc-card lc-card--link" href="{{ rp.url | relative_url }}"><div class="lc-card-body"><p class="lc-kicker">{% if rp.kind == "faq" %}FAQ{% elsif rp.kind == "article" %}Resources{% else %}Page{% endif %}</p><h3>{{ rp.headline | default: rp.title }}</h3>{% if rp.lede %}<p>{{ rp.lede }}</p>{% endif %}</div></a>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+{% include faq.html heading="Quick answers" %}
+{% include cta.html %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.headline | default: page.title | jsonify }},"description":{{ page.description | jsonify }},"datePublished":"{{ page.date | date: '%Y-%m-%d' }}","dateModified":"{{ page.date | date: '%Y-%m-%d' }}","mainEntityOfPage":"{{ page.url | absolute_url }}",{% if page.image %}"image":"{% if page.image contains '/' %}{{ page.image | absolute_url }}{% else %}{% include photo-url.html src=page.image w=1200 %}{% endif %}",{% endif %}"author":{"@type":"Organization","name":"76 Fence of Conroe","url":"{{ '/' | absolute_url }}"},"publisher":{"@type":"Organization","name":"76 Fence of Conroe","logo":{"@type":"ImageObject","url":"{{ '/assets/images/logo-76-fence.png' | absolute_url }}"}}}
+</script>

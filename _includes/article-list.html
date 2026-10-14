@@ -1,0 +1,19 @@
+{%- comment -%}
+Card grid of Resources articles or FAQ deep-dives, grouped by topic.
+Params: kind (article|faq), topics (pipe-separated topic names, in display order)
+{%- endcomment -%}
+{%- assign items = site.pages | where: "kind", include.kind | sort: "order" -%}
+{%- assign topic_list = include.topics | split: "|" -%}
+{%- for t in topic_list %}
+{%- assign group = items | where: "topic", t -%}
+{%- if group.size > 0 %}
+<div class="lc-hub-group">
+  <h3>{{ t }}</h3>
+  <div class="lc-grid lc-grid-3">
+    {%- for a in group %}
+    <a class="lc-card lc-card--link" href="{{ a.url | relative_url }}">{% if a.image and include.kind == "article" %}{% include photo.html src=a.image alt=a.alt w=700 %}{% endif %}<div class="lc-card-body">{% if a.read %}<p class="lc-kicker">{{ a.read }} min read</p>{% endif %}<h3>{{ a.headline | default: a.title }}</h3>{% if a.lede %}<p>{{ a.lede }}</p>{% endif %}</div></a>
+    {%- endfor %}
+  </div>
+</div>
+{%- endif %}
+{%- endfor %}

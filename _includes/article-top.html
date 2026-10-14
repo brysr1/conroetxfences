@@ -1,0 +1,26 @@
+{%- comment -%}
+Top of a Resources article or FAQ deep-dive page. Uses front matter:
+kind (article|faq), headline, lede, image, alt, date, read (minutes).
+{%- endcomment -%}
+{%- if page.kind == "faq" -%}
+  {%- assign crumb_title = "FAQ" -%}{%- assign crumb_url = "/faq/" -%}{%- assign kick = "FAQ" -%}
+{%- else -%}
+  {%- assign crumb_title = "Resources" -%}{%- assign crumb_url = "/resources/" -%}{%- assign kick = "Resources" -%}
+{%- endif -%}
+<section class="lc-phero">
+  <div class="lc-wrap lc-phero-in{% unless page.image %} lc-phero-in--solo{% endunless %}">
+    <div class="lc-phero-text">
+      <nav class="lc-crumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span>/</span><a href="{{ crumb_url | relative_url }}">{{ crumb_title }}</a></nav>
+      <p class="lc-kicker lc-kicker--light">{{ kick }}{% if page.read %} &middot; {{ page.read }} min read{% endif %}</p>
+      <h1>{{ page.headline | default: page.title }}</h1>
+      {%- if page.lede %}<p class="lc-phero-lede">{{ page.lede }}</p>{% endif %}
+      <p class="lc-art-meta">By the 76 Fence of Conroe team &middot; Updated <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    </div>
+    {%- if page.image %}
+    <figure class="lc-phero-media">{% include photo.html src=page.image alt=page.alt w=1100 %}</figure>
+    {%- endif %}
+  </div>
+  <svg class="lc-wave" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 60V28c120-18 240-28 360-20s240 30 360 30 240-22 360-30 240 2 360 20v32z"/></svg>
+</section>
+<section class="lc-section lc-article">
+  <div class="lc-wrap lc-prose">
