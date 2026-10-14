@@ -29,7 +29,7 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; overflow-x: clip; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; overflow-x: clip; scroll-padding-top: 96px; }
 body {
   margin: 0;
   background: var(--white);
@@ -37,7 +37,7 @@ body {
   font-family: var(--font-b);
   font-size: 17px;
   line-height: 1.65;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 img { max-width: 100%; height: auto; display: block; }
 a { color: var(--lake); text-underline-offset: 3px; }
