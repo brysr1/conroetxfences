@@ -49,5 +49,6 @@ main:
       - { title: Financing, url: /financing/ }
       - { title: As Seen on HGTV, url: /as-seen-on-hgtv/ }
       - { title: FAQ, url: /faq/ }
+      - { title: Fence Guides & Resources, url: /resources/ }
   - title: Contact
     url: /contact/
