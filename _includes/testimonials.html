@@ -1,0 +1,26 @@
+<section class="lc-section lc-reviews" aria-labelledby="lc-reviews-title">
+  <div class="lc-wrap">
+    <div class="lc-head">
+      <p class="lc-kicker">Reviews</p>
+      <h2 id="lc-reviews-title">What our customers say</h2>
+      <p class="lc-lede">Five-star Google reviews from homeowners who hired the 76 Fence crew.</p>
+    </div>
+    {% assign featured = site.data.testimonials | where: "featured", true | first %}
+    {% if featured %}
+    <figure class="lc-review lc-review--featured">
+      <div class="lc-stars" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+      <blockquote><p>&ldquo;{{ featured.quote }}&rdquo;</p></blockquote>
+      <figcaption><strong>{{ featured.name }}</strong><span>Google review</span></figcaption>
+    </figure>
+    {% endif %}
+    <div class="lc-grid lc-grid-3">
+      {% for r in site.data.testimonials %}{% unless r.featured %}
+      <figure class="lc-review">
+        <div class="lc-stars" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <blockquote><p>&ldquo;{{ r.quote }}&rdquo;</p></blockquote>
+        <figcaption><strong>{{ r.name }}</strong><span>Google review</span></figcaption>
+      </figure>
+      {% endunless %}{% endfor %}
+    </div>
+  </div>
+</section>
