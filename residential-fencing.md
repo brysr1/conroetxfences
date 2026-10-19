@@ -72,7 +72,7 @@ faqs:
       <h2>Included with every home fence</h2>
     </div>
     <ul class="lc-checks">
-      <li><strong>An on-site visit.</strong> We measure the real fence line and send a written, itemized quote.</li>
+      <li><strong>An on-site visit.</strong> We measure the real fence line and send a written quote.</li>
       <li><strong>HOA paperwork.</strong> Layout, height, material, and color details for your architectural committee.</li>
       <li><strong>Texas 811 locates.</strong> Buried lines are marked before anyone digs.</li>
       <li><strong>Old fence removal.</strong> Tear-out and haul-off when we replace an existing fence.</li>

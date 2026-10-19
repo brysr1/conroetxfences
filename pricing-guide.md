@@ -41,7 +41,7 @@ permalink: /pricing-guide/
       <p class="lc-lede">Two fences with the same footage can end up with very different prices. Around Conroe and the lake, these are the factors that most often explain the difference.</p>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Wooded lots and clearing</h3><p>Many lots here back to pine and hardwood woods or greenbelt. Brush along the line may need clearing, trees may need to be worked around, and roots slow down hole digging. We note all of this at the site visit and list any clearing as its own line item.</p></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Wooded lots and clearing</h3><p>Many lots here back to pine and hardwood woods or greenbelt. Brush along the line may need clearing, trees may need to be worked around, and roots slow down hole digging. We note all of this at the site visit and include any clearing in the quote.</p></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Lake-lot rules</h3><p>On Lake Conroe, SJRA land comes up to the 201-foot contour, and permanent structures there need an SJRA permit. Lakefront and canal lots may also have bulkheads, slopes down to the water, and HOA view guidelines. Each of these can affect the layout, the material, and how long the job takes.</p></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Long acreage runs</h3><p>On acreage north and east of town, the cost per foot often drops while the total climbs. Brace assemblies, wide drive gates, creek crossings, and getting equipment onto the land all show up in the quote.</p></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>HOA-required styles or stain</h3><p>If your community calls for a specific style, height, cap, or stain color, the material list follows those rules. We confirm the current guidelines for your lot, then price the fence the committee will approve.</p></div></div>
@@ -85,9 +85,9 @@ permalink: /pricing-guide/
 <section class="lc-section lc-section--sky lc-section--tight">
   <div class="lc-wrap">
     <div class="lc-callout">
-      <p><strong>The written quote is the real number.</strong> Everything on this page is a typical range. Your price is the one on the itemized estimate we send after measuring your property. If you would rather pay over time, <a href="{{ '/financing/' | relative_url }}">financing through Hearth</a> is available for qualified buyers.</p>
+      <p><strong>The written quote is the real number.</strong> Everything on this page is a typical range. Your price is the one on the written estimate we send after measuring your property. If you would rather pay over time, <a href="{{ '/financing/' | relative_url }}">financing through Hearth</a> is available for qualified buyers.</p>
     </div>
   </div>
 </section>
 
-{% include cta.html heading="Get the exact price for your property" text="Call or text (713) 331-9419, or book online. We will measure and send a written, itemized quote." %}
+{% include cta.html heading="Get the exact price for your property" text="Call or text (713) 331-9419, or book online. We will measure and send a written quote." %}

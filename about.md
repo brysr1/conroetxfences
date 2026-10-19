@@ -52,7 +52,7 @@ permalink: /about/
     </div>
     <ul class="lc-checks">
       <li><strong>We check the rules first.</strong> City limits, county, HOA, or SJRA shoreline: we find out which apply to your address before you choose a fence.</li>
-      <li><strong>The quote is in writing.</strong> It lists footage, height, material, post type, gates, and tear-out line by line.</li>
+      <li><strong>The quote is in writing.</strong> You know what you're getting before any work starts.</li>
       <li><strong>We call 811 before we dig.</strong> Utility locates are requested ahead of every install, without exception.</li>
       <li><strong>Posts go in for the ground you have.</strong> Clay, sand, roots, and low wet spots each change how we set posts.</li>
       <li><strong>We clean up.</strong> Old fencing, cut-offs, and spoil from the post holes leave with the crew.</li>

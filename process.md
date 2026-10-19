@@ -15,7 +15,7 @@ permalink: /process/
     </div>
     <ol class="lc-steps">
       <li><h3>Tell us about the property</h3><p>Call, text, or book online. Send the address, a rough idea of the fence line, and photos if you have them.</p></li>
-      <li><h3>Site visit &amp; written quote</h3><p>We walk and measure the line, note slope, trees, and access, and send an itemized quote.</p></li>
+      <li><h3>Site visit &amp; written quote</h3><p>We walk and measure the line, note slope, trees, and access, and send a written quote.</p></li>
       <li><h3>Approvals &amp; locates</h3><p>HOA submittal, a permit check for your address, SJRA review on lake lots, and a Texas 811 request.</p></li>
       <li><h3>Install day</h3><p>We confirm the layout with you, remove the old fence, set posts, build, hang the gates, and clean up.</p></li>
       <li><h3>Walkthrough &amp; aftercare</h3><p>We test every gate together. If something needs attention later, the same team answers the phone.</p></li>
@@ -28,7 +28,7 @@ permalink: /process/
     <h2>Step 1 and 2: the estimate</h2>
     <p>When you reach out, the address tells us a lot. It shows whether the lot is inside Conroe city limits or out in the county, whether a property owners' association is involved, and whether you are near the lake. A rough length, a few yard photos, and the material you have in mind help us show up prepared. If it is a replacement or a repair, a photo of the existing fence helps too.</p>
     <p>Small repairs can sometimes be priced from photos. For a new fence, a strict HOA, a lakefront lot, or acreage, we come out and measure, because footage and grade change the price. On wooded lots we also look at which trees sit on the line, where roots will get in the way of post holes, and whether brush has to be cleared first.</p>
-    <p>The quote comes in writing and is broken out item by item: linear feet, height, material and grade, post type, gates and hardware, tear-out and haul-off, and any clearing. Our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a> lists typical ranges, and <a href="{{ '/financing/' | relative_url }}">financing through Hearth</a> is available if you would like to spread the cost out.</p>
+    <p>The quote comes in writing and covers the fence we talked through, including tear-out, haul-off, and any clearing. Our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a> lists typical ranges, and <a href="{{ '/financing/' | relative_url }}">financing through Hearth</a> is available if you would like to spread the cost out.</p>
   </div>
 </section>
 

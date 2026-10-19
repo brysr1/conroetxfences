@@ -13,7 +13,7 @@ faqs:
   - q: "What about waterfront lots on Lake Livingston?"
     a: "The Trinity River Authority manages Lake Livingston, so building close to the water there may involve TRA rules as well as your community's POA guidelines. We confirm what applies to your lot before we build."
   - q: "My lot is heavily wooded. Can you still fence it?"
-    a: "Yes. A lot of lots around Conroe back to pine and hardwood woods or greenbelt. We walk the line to find trees and root zones and see how much brush needs to come out, and we route the fence around trees worth keeping. Any clearing gets its own line on the quote, so you can see what it costs."
+    a: "Yes. A lot of lots around Conroe back to pine and hardwood woods or greenbelt. We walk the line to find trees and root zones and see how much brush needs to come out, and we route the fence around trees worth keeping. Any clearing is included in the quote, so there are no surprises later."
   - q: "Do you work in Willis and on the east side of Lake Conroe?"
     a: "Yes. We regularly work in Willis and the east-shore lake communities, including Point Aquarius, Seven Coves, Lake Conroe Hills, and Water Crest. See the [Willis service area](/service-areas/willis-tx/)."
   - q: "Do you go as far as Huntsville, Cleveland, and Lake Livingston?"

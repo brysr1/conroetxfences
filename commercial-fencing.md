@@ -26,7 +26,7 @@ faqs:
       <h2>A fence that does a job</h2>
       <p>A business fence usually has one main task: keep equipment from walking off, hide the service area, mark the property line, or steer traffic to one entrance. We start by asking which of those matters most, because it decides the height, the material, and how the gates work.</p>
       <p>We build for owners, property managers, and general contractors. A contractor&rsquo;s yard might need tall chain link with a rolling gate wide enough for a trailer. A restaurant might need a screened enclosure behind the kitchen. A new building might need its final fence installed in the last weeks before opening.</p>
-      <p>You get a written quote that your team can review line by line, and a schedule we stick to.</p>
+      <p>You get a written quote your team can review and approve, and a schedule we stick to.</p>
     </div>
   </div>
 </section>

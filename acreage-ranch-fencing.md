@@ -80,7 +80,7 @@ faqs:
       <li><strong>Gates sized for your equipment.</strong> Walk, pasture, and drive gates where you need them.</li>
       <li><strong>Texas 811 locates.</strong> Requested before any post goes in the ground.</li>
       <li><strong>Mixed fence types.</strong> Privacy near the house, ranch fence beyond, priced by section.</li>
-      <li><strong>Written, itemized quote.</strong> Footage, materials, and gates broken out line by line.</li>
+      <li><strong>Written quote.</strong> The full scope in writing before work starts.</li>
       <li><strong>Financing options.</strong> Available through Hearth, with terms set by Hearth.</li>
     </ul>
   </div>

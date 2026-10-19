@@ -77,7 +77,7 @@ faqs:
       <li><strong>Rules confirmed.</strong> City, county, and site-plan requirements checked for your address.</li>
       <li><strong>Texas 811 locates.</strong> Requested before any digging.</li>
       <li><strong>Pad coordination.</strong> We work with your concrete contractor where a pad or apron is required.</li>
-      <li><strong>Written quote.</strong> Materials, gates, and hardware itemized for your team.</li>
+      <li><strong>Written quote.</strong> A clear proposal your team can review and approve.</li>
     </ul>
   </div>
 </section>
