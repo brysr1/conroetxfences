@@ -44,7 +44,7 @@ faqs:
   <li>Who handles staining, repairs, and storm damage later</li>
   <li>What happens if one of the houses sells</li>
 </ol>
-<p>Ask us to price the shared stretch separately on the quote to make the split simple. If your HOA reviews fences, get that approval before either of you commits money to a design. Our <a href="/hoa-fencing/">HOA fencing</a> page explains that side.</p>
+<p>If you are splitting the cost, ask us to quote the shared stretch on its own to make the split simple. If your HOA reviews fences, get that approval before either of you commits money to a design. Our <a href="/hoa-fencing/">HOA fencing</a> page explains that side.</p>
 
 <h2>Old fences and adverse possession</h2>
 <p>A fence that stood in the wrong spot for years doesn't automatically move the boundary. Adverse possession claims in Texas carry long time requirements (one common path is 10 years under Chapter 16 of the Civil Practice and Remedies Code), and courts have treated a casual fence, like one strung for cattle or one that dodges a creek, as not enough on its own to claim land. Even so, an off-line fence on acreage is worth correcting when you rebuild. A <a href="/faq/property-survey/">survey</a> shows where the new one belongs.</p>

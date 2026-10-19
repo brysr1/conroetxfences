@@ -30,7 +30,7 @@ faqs:
 <h2>Work back from the date you need</h2>
 <p>The build is the short part. Most residential fences take a few days on site at most. What comes before it is what sets the calendar:</p>
 <ol>
-  <li><strong>Estimate and quote.</strong> We walk the line and send an itemized quote.</li>
+  <li><strong>Estimate and quote.</strong> We walk the line and send a written quote.</li>
   <li><strong>HOA or architectural review.</strong> Each committee meets when it meets, and a packet missing details gets sent back. Our <a href="/resources/hoa-fence-approval-conroe-tx/">HOA approval guide</a> covers what to send.</li>
   <li><strong>City permit, if one applies.</strong> In Panorama Village, for example, the Planning &amp; Zoning Commission has up to 30 days to approve or deny an application.</li>
   <li><strong>Texas 811.</strong> At least two business days of notice before digging. See <a href="/faq/texas-811/">how 811 works</a>.</li>
