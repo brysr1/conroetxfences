@@ -22,7 +22,7 @@ faqs:
   - q: "Do I need approval to change my fence in Cielo?"
     a: "Plan on it. Exterior changes in master-planned communities like Cielo generally go through the HOA, which listings show is managed by Inframark. We look up what applies to your lot and handle the submittal."
   - q: "What does a fence cost on a 40- to 50-foot lot?"
-    a: "It depends on the material, height, and how many gates you need. Our [pricing guide](/pricing-guide/) explains the main cost factors, and we give a free written, itemized quote after we measure. [Financing through Hearth](/financing/) is also available."
+    a: "It depends on the material, height, and how many gates you need. Our [pricing guide](/pricing-guide/) explains the main cost factors, and we give a free written quote after we measure. [Financing through Hearth](/financing/) is also available."
   - q: "Do you build fences for lake lots in Cielo?"
     a: "Yes. For lots near the 5.5-acre amenity lake, we usually start with open ornamental fencing and check what the HOA allows along that edge."
 ---

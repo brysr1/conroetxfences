@@ -17,7 +17,7 @@ faqs:
   - q: "Do I need a City of Conroe permit for a fence in Teaswood?"
     a: "Teaswood appears inside Conroe city limits, so the city's Building Inspections and Permits department may be involved. We confirm the current requirements for your address before we quote, along with any HOA review."
   - q: "How do you price a long perimeter fence?"
-    a: "By the foot, with gates, corners, and clearing priced separately. We walk the whole line first, note trees and low spots, and give you a written, itemized quote."
+    a: "By the foot, with gates, corners, and any clearing factored in. We walk the whole line first, note trees and low spots, and give you a written quote."
   - q: "Can you add an automatic driveway gate?"
     a: "We can build the gate and the fence that ties into it, and plan the posts and opening for an opener. We'll talk through swing or slide, width, and power at the estimate."
   - q: "Will you clear brush along the fence line?"

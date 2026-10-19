@@ -19,7 +19,7 @@ faqs:
   - q: "Who approves fences in Silverstone?"
     a: "The Silverstone HOA. We haven't seen published fence guidelines, so we confirm the current requirements for that property and prepare the paperwork before quoting."
   - q: "Can you fence the full acre?"
-    a: "Yes. We price perimeter work by the foot with gates and corners itemized, and we can mix materials, for example iron in front and wood or wire along the back."
+    a: "Yes. We price perimeter work by the foot with gates and corners factored in, and we can mix materials, for example iron in front and wood or wire along the back."
   - q: "Do I need a permit?"
     a: "That depends on whether your address is inside Conroe city limits. We check what applies to your lot, along with HOA review, before we build."
 ---
