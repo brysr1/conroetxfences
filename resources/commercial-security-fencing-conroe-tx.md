@@ -61,7 +61,7 @@ faqs:
 <p>Expect your accounts payable or property manager to ask for three things, and we have them ready:</p>
 <ul>
 <li><strong>Certificate of insurance.</strong> Our general liability and workers' comp policies are current, and we send certificates whenever you ask.</li>
-<li><strong>An itemized written quote.</strong> Footage, height, material, gates, hardware, tear-out, and any clearing, listed so your team can approve it line by line.</li>
+<li><strong>A written quote.</strong> A clear proposal your team can review and approve.</li>
 <li><strong>Warranty terms in writing.</strong> Our <a href="/warranty/">18-month workmanship warranty</a> starts at completion, and manufacturer warranties on materials are separate.</li>
 </ul>
 

@@ -67,5 +67,5 @@ faqs:
 <h2>Start with a gate and posts that can take it</h2>
 <p>An opener magnifies every weakness in the gate. Before adding one to an existing gate, we check the frame, hinges, and posts. Gate posts that carry an operator get our heaviest footings, deeper and wider than line posts. A gate that already sags should be fixed first; see <a href="/resources/fix-sagging-fence-gate/">how to fix a sagging gate</a>.</p>
 
-<p>Want an opener on a new or existing gate? Call or text (713) 331-9419. We will look at the drive, the sun, and the power source and send an itemized quote. Our <a href="/fence-styles/gates/">gates and openers page</a> shows the gate styles we build.</p>
+<p>Want an opener on a new or existing gate? Call or text (713) 331-9419. We will look at the drive, the sun, and the power source and send a written quote. Our <a href="/fence-styles/gates/">gates and openers page</a> shows the gate styles we build.</p>
 {% include article-end.html %}
