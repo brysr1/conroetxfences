@@ -55,7 +55,6 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
         <li><strong>HOA paperwork done for you.</strong> We put together the layout, height, material, and stain details most architectural committees ask for.</li>
         <li><strong>811 locates every time.</strong> Every job gets utility lines marked first, so nobody hits gas or fiber with an auger.</li>
         <li><strong>Posts set for local soil.</strong> Post depth and footings are matched to the clay, sand, and wet ground you find across Montgomery County.</li>
-        <li><strong>A written, itemized quote.</strong> Materials, post type, height, and gates are spelled out, with no vague lump sums.</li>
       </ul>
     </div>
   </div>
@@ -87,7 +86,7 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
     </div>
     <ol class="lc-steps">
       <li><h3>Request an estimate</h3><p>Reach us by phone, text, or the booking link with a few lot details.</p></li>
-      <li><h3>Walk the line</h3><p>We measure, note grade and trees, and send an itemized quote.</p></li>
+      <li><h3>Walk the line</h3><p>We measure, note grade and trees, and send a written quote.</p></li>
       <li><h3>Approvals &amp; 811</h3><p>HOA submittal, any permit check, and utility locates.</p></li>
       <li><h3>Build day</h3><p>Posts set, fence and gates built, old fence hauled off.</p></li>
       <li><h3>Walkthrough</h3><p>We test every gate and latch with you before we wrap up.</p></li>
