@@ -52,6 +52,7 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
       <h2>We sort out the rules before we quote</h2>
       <p>Around Conroe, the rules for your fence depend on where your lot sits. It might be inside city limits, in the county, in a deed-restricted subdivision, or on a lake lot near San Jacinto River Authority land. We figure out which ones apply to your property first, so the fence you pick is one you can actually build.</p>
       <ul class="lc-checks lc-checks--one">
+        <li><strong>Your estimator is there on install day.</strong> The person who measured your property comes back for the build to keep it on plan and answer questions on the spot.</li>
         <li><strong>HOA paperwork done for you.</strong> We put together the layout, height, material, and stain details most architectural committees ask for.</li>
         <li><strong>811 locates every time.</strong> Every job gets utility lines marked first, so nobody hits gas or fiber with an auger.</li>
         <li><strong>Posts set for local soil.</strong> Post depth and footings are matched to the clay, sand, and wet ground you find across Montgomery County.</li>
