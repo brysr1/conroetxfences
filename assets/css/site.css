@@ -139,10 +139,10 @@ ul, ol { padding-left: 1.2em; }
 
 .lc-dock { display: none; }
 
-@media (max-width: 1180px) {
+@media (max-width: 1340px) {
   .lc-header-phone span { display: none; }
 }
-@media (max-width: 1080px) {
+@media (max-width: 1180px) {
   .lc-burger { display: block; }
   .lc-header-phone { display: none; }
   .lc-nav {
