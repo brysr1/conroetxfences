@@ -502,3 +502,19 @@ ul, ol { padding-left: 1.2em; }
 .lc-review--featured figcaption strong { color: var(--white); }
 .lc-review--featured figcaption span { color: var(--sky); }
 @media (max-width: 640px) { .lc-review--featured { padding: 24px; } .lc-review--featured blockquote p { font-size: 1.1rem; } }
+
+/* ---------- Resources feed ---------- */
+.lc-feed { list-style: none; margin: 28px 0 0; padding: 0; display: grid; gap: 18px; }
+.lc-feed-card { display: grid; grid-template-columns: 240px 1fr; gap: 0; background: var(--white); border: 1px solid var(--line); border-radius: var(--r-md); overflow: hidden; color: inherit; text-decoration: none; transition: transform .18s ease, box-shadow .18s ease; }
+.lc-feed-card:hover { transform: translateY(-2px); box-shadow: var(--shadow); }
+.lc-feed-card:not(:has(.lc-feed-media)) { grid-template-columns: 1fr; }
+.lc-feed-media img { width: 100%; height: 100%; min-height: 170px; object-fit: cover; display: block; }
+.lc-feed-body { padding: 20px 24px 22px; display: flex; flex-direction: column; gap: 6px; }
+.lc-feed-meta { font-size: .85rem; color: var(--muted); }
+.lc-feed-title { font-family: var(--font-h); font-weight: 700; font-size: 1.3rem; line-height: 1.25; color: var(--navy); }
+.lc-feed-excerpt { color: var(--muted); font-size: .98rem; }
+.lc-feed-more { margin-top: 4px; font-weight: 700; color: var(--lake); font-size: .95rem; }
+.lc-feed-pager { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
+.lc-feed-pager button { font: inherit; font-weight: 600; padding: 8px 16px; border-radius: 99px; border: 1px solid var(--line); background: var(--white); color: var(--navy); cursor: pointer; }
+.lc-feed-pager button[aria-current] { background: var(--navy); border-color: var(--navy); color: var(--white); }
+@media (max-width: 680px) { .lc-feed-card { grid-template-columns: 1fr; } .lc-feed-media img { min-height: 0; aspect-ratio: 16 / 9; } }
