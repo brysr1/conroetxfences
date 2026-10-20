@@ -1,0 +1,47 @@
+{%- comment -%}
+Dated Resources feed, newest first. Lists every page with kind: article.
+Ties on the same date fall back to `order`. Pages of 10 via a small script;
+without JavaScript every post shows.
+To add a post: create resources/<slug>.md with kind: article, a date, headline, lede, read, and (optionally) image/alt.
+{%- endcomment -%}
+{%- assign articles = site.pages | where: "kind", "article" -%}
+{%- assign by_date = articles | group_by_exp: "a", "a.date | date: '%Y-%m-%d'" | sort: "name" | reverse -%}
+<ol class="lc-feed" data-feed data-per-page="{{ include.per_page | default: 10 }}">
+{%- for g in by_date %}
+  {%- assign same_day = g.items | sort: "order" -%}
+  {%- for a in same_day %}
+  <li class="lc-feed-item">
+    <a class="lc-feed-card" href="{{ a.url | relative_url }}">
+      {%- if a.image %}<span class="lc-feed-media">{% include photo.html src=a.image alt=a.alt w=600 %}</span>{% endif %}
+      <span class="lc-feed-body">
+        <span class="lc-feed-meta"><time datetime="{{ a.date | date: '%Y-%m-%d' }}">{{ a.date | date: "%B %-d, %Y" }}</time>{% if a.read %} &middot; {{ a.read }} min read{% endif %}{% if a.topic %} &middot; {{ a.topic }}{% endif %}</span>
+        <span class="lc-feed-title">{{ a.headline | default: a.title }}</span>
+        {%- if a.lede %}<span class="lc-feed-excerpt">{{ a.lede }}</span>{% endif %}
+        <span class="lc-feed-more">Read more &rsaquo;</span>
+      </span>
+    </a>
+  </li>
+  {%- endfor %}
+{%- endfor %}
+</ol>
+<nav class="lc-feed-pager" data-feed-pager aria-label="Resources pages" hidden></nav>
+<script>
+(function(){
+  var list=document.querySelector('[data-feed]'), pager=document.querySelector('[data-feed-pager]');
+  if(!list||!pager) return;
+  var items=[].slice.call(list.children), per=parseInt(list.getAttribute('data-per-page'),10)||10, pages=Math.ceil(items.length/per);
+  if(pages<2) return;
+  function show(p,scroll){
+    items.forEach(function(li,i){ li.hidden = Math.floor(i/per)!==p-1; });
+    pager.innerHTML='';
+    function btn(label,page,current){ var b=document.createElement('button'); b.type='button'; b.textContent=label; if(current){b.setAttribute('aria-current','page');} b.addEventListener('click',function(){ show(page,true); }); pager.appendChild(b); }
+    if(p>1) btn('‹ Previous',p-1);
+    for(var i=1;i<=pages;i++) btn(String(i),i,i===p);
+    if(p<pages) btn('Next page ›',p+1);
+    if(scroll) list.scrollIntoView({behavior:'smooth',block:'start'});
+    try{ history.replaceState(null,'',p>1?('#page-'+p):location.pathname); }catch(e){}
+  }
+  pager.hidden=false;
+  var m=location.hash.match(/^#page-(\d+)$/); show(m?Math.min(pages,Math.max(1,+m[1])):1,false);
+})();
+</script>
