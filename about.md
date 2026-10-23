@@ -59,7 +59,7 @@ permalink: /about/
       <li><strong>We do a walkthrough at the end.</strong> We swing every gate with you and fix anything that is off before we call the job done.</li>
     </ul>
     <p class="lc-mt">Want the full picture? Our <a href="{{ '/process/' | relative_url }}">process page</a> covers each step, from the first call to aftercare, and the <a href="{{ '/warranty/' | relative_url }}">warranty page</a> explains how we back the work.</p>
-    <p class="lc-note">76 Fence of Conroe is part of the <a href="https://76fence.com/houston">76 Fence</a> family, along with <a href="https://magnoliatxfences.com">76 Fence of Magnolia</a> and <a href="https://northhoustonfence.com">76 Fence of North Houston</a>.</p>
+    <p class="lc-note">76 Fence of Conroe is part of the <a href="https://76fence.com/houston">76 Fence</a> family, along with <a href="https://magnoliatxfences.com">76 Fence of Magnolia</a>, <a href="https://thewoodlandsfences.com">76 Fence of The Woodlands</a>, and <a href="https://northhoustonfence.com">76 Fence of North Houston</a>.</p>
   </div>
 </section>
 
