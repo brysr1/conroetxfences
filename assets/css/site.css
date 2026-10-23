@@ -83,7 +83,7 @@ ul, ol { padding-left: 1.2em; }
 .lc-topbar-in { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 36px; }
 .lc-topbar-loc { display: inline-flex; align-items: center; gap: 6px; }
 .lc-topbar svg { width: 15px; height: 15px; fill: none; stroke: var(--sun); stroke-width: 2; }
-.lc-topbar-links { display: flex; gap: 18px; }
+.lc-topbar-links { display: flex; gap: 18px; margin-left: auto; }
 .lc-topbar a { color: #c9d8e6; text-decoration: none; }
 .lc-topbar a:hover { color: var(--white); }
 
@@ -166,7 +166,7 @@ ul, ol { padding-left: 1.2em; }
   .lc-nav-mobile-cta .lc-btn--outline { color: var(--navy); border-color: var(--navy); }
 }
 @media (max-width: 720px) {
-  .lc-topbar-links { display: none; }
+  .lc-topbar-links { margin: 0 auto; }
   .lc-topbar { font-size: .78rem; }
   .lc-header-in { min-height: 66px; gap: 12px; }
   .lc-nav { inset: 102px 0 0 0; }
