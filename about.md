@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 76 Fence of Conroe | Your Local Fence Team
+title: "About Us | Your Local Conroe Fence Team"
 description: Meet the people behind 76 Fence of Conroe, based on Grand Central Pkwy and building fences around Conroe and Lake Conroe. Call (713) 331-9419.
 permalink: /about/
 ---

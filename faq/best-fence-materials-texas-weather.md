@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Fence Materials for Conroe-Area Weather | 76 Fence"
+title: "Best Fence Materials for Conroe-Area Weather"
 description: "Fence materials ranked for Conroe heat, rain, Gulf storms, falling pines, and sandy soil, plus what changes on lake lots and around Cleveland and Livingston."
 permalink: /faq/best-fence-materials-texas-weather/
 kind: faq

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Time to Install a Fence in Conroe | 76 Fence of Conroe"
+title: "Best Time to Install a Fence in Conroe"
 description: "When to schedule a fence around Conroe: busy and slower seasons, HOA and permit lead time, wet weeks, hurricane season, lake lots, and when to stain new wood."
 permalink: /faq/best-time-to-install-fence/
 kind: faq

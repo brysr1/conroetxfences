@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation on Lake Livingston, TX | 76 Fence
+title: "Fence Installation on Lake Livingston, TX"
 description: Fences, gates, and pool enclosures for Lake Livingston communities like Waterwood, Cape Royale, and Westwood Shores. Free estimates at (713) 331-9419.
 permalink: /service-areas/lake-livingston-tx/
 crumb: { title: "Service Areas", url: "/service-areas/" }
@@ -24,7 +24,7 @@ faqs:
     a: "No. Big Thicket Lake Estates is on SH 146 at the Polk and Liberty county line, with its own private lakes. We list it on our [Cleveland page](/service-areas/cleveland-tx/)."
 ---
 
-{% include page-hero.html kicker="Service Areas" title="Fence Installation on Lake Livingston" lede="Fences for lake houses, golf-course homes, and wooded weekend lots around the shores of an 83,000-acre lake." image="1495616811223-4d98c6e9c869" alt="Wooden pier stretching into a lake at a fiery sunset" %}
+{% include page-hero.html kicker="Service Areas" title="Fence Company in Lake Livingston, TX" lede="Fences for lake houses, golf-course homes, and wooded weekend lots around the shores of an 83,000-acre lake." image="1495616811223-4d98c6e9c869" alt="Wooden pier stretching into a lake at a fiery sunset" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--top lc-split--wide-text">

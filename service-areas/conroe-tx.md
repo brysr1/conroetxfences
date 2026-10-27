@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation in Conroe, TX | 76 Fence of Conroe
+title: "Fence Installation in Conroe, TX"
 description: Fence installation, gates, and repair across Conroe, TX, from Grand Central Park to SH 242 and FM 1484. Free written estimates. Call (713) 331-9419.
 permalink: /service-areas/conroe-tx/
 crumb: { title: "Service Areas", url: "/service-areas/" }

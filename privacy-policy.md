@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy for conroetxfences.com | 76 Fence
+title: "Privacy Policy for conroetxfences.com"
 description: How conroetxfences.com and 76 Fence of Conroe collect, use, and share information from the contact form, online booking, analytics, and embedded maps.
 permalink: /privacy-policy/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Fence for Dogs in Conroe-Area Yards | 76 Fence"
+title: "Best Fence for Dogs in Conroe-Area Yards"
 description: "Choosing a dog fence for Conroe-area yards: height, diggers in sandy soil, gaps under fences, open HOA fences on greenbelt and golf lots, and gates that latch."
 permalink: /faq/best-fence-for-dogs/
 kind: faq

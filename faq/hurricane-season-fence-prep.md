@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hurricane Season Fence Prep for Conroe Homes | 76 Fence"
+title: "Hurricane Season Fence Prep for Conroe Homes"
 description: "A June 1 to November 30 fence checklist for Conroe, Willis, and Lake Livingston homes: posts, gates, pine limbs, photos for insurance, and after-storm steps."
 permalink: /faq/hurricane-season-fence-prep/
 kind: faq

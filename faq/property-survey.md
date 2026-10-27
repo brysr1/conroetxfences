@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Do You Need a Survey for a Fence? | 76 Fence of Conroe"
+title: "Do You Need a Survey for a Fence?"
 description: "When a Conroe-area fence needs a property survey: shared lines, missing pins, acreage, city permit rules, and Lake Conroe or Lake Livingston shoreline lots."
 permalink: /faq/property-survey/
 kind: faq

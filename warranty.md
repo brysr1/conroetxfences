@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Workmanship Warranty, 18 Months | 76 Fence Conroe
+title: "Fence Workmanship Warranty, 18 Months"
 description: Fences built by 76 Fence of Conroe carry an 18-month limited workmanship warranty. What it covers, what it excludes, and the steps for a claim.
 permalink: /warranty/
 ---

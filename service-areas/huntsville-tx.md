@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation in Huntsville, TX | 76 Fence of Conroe
+title: "Fence Installation in Huntsville, TX"
 description: Fences and gates in Huntsville and Walker County, from Elkins Lake lots to 2–5 acre tracts at Texas Grand Ranch. Free estimates at (713) 331-9419.
 permalink: /service-areas/huntsville-tx/
 crumb: { title: "Service Areas", url: "/service-areas/" }
@@ -24,7 +24,7 @@ faqs:
     a: "Waterwood has a Huntsville mailing address but sits on Lake Livingston in San Jacinto County. We serve it, and you'll find it on our [Lake Livingston page](/service-areas/lake-livingston-tx/) and its own [Waterwood page](/neighborhoods/waterwood/)."
 ---
 
-{% include page-hero.html kicker="Service Areas" title="Fence Installation in Huntsville, TX" lede="Wooded lake lots, new subdivisions near the university, and multi-acre tracts on the edge of the national forest." image="1604488277305-817b4add03dc" alt="Sun rays streaming through a pine forest" %}
+{% include page-hero.html kicker="Service Areas" title="Fence Company in Huntsville, TX" lede="Wooded lake lots, new subdivisions near the university, and multi-acre tracts on the edge of the national forest." image="1604488277305-817b4add03dc" alt="Sun rays streaming through a pine forest" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--top lc-split--wide-text">

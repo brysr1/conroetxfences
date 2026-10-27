@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Automatic Gate Openers in Conroe, TX | 76 Fence of Conroe"
+title: "Automatic Gate Openers in Conroe, TX"
 description: "Solar or wired, swing or slide, and UL 325 safety basics for automatic gates on Conroe lake homes, wooded lots, and acreage near Huntsville and Lake Livingston."
 permalink: /resources/automatic-gate-opener-conroe-tx/
 kind: article

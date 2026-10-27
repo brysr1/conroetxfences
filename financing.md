@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Financing in Conroe, TX | 76 Fence of Conroe
+title: "Fence Financing in Conroe, TX"
 description: Pay for a new fence over time with Hearth financing from 76 Fence of Conroe. Options from a 550 credit score, possible 0% at 680+. Call (713) 331-9419.
 permalink: /financing/
 ---

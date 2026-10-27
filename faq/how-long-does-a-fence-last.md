@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How Long Does a Fence Last in Conroe? | 76 Fence of Conroe"
+title: "How Long Does a Fence Last in Conroe?"
 description: "Typical fence lifespans by material around Conroe, what wears fences out early on wooded and lake lots, and the build and upkeep choices that add years."
 permalink: /faq/how-long-does-a-fence-last/
 kind: faq

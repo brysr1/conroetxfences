@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fence Permits in Conroe, Willis & Nearby | 76 Fence of Conroe"
+title: "Fence Permits in Conroe, Willis & Nearby"
 description: "Fence permit rules by jurisdiction: City of Conroe, Willis, Panorama Village, Cleveland, Huntsville, and unincorporated Montgomery and Walker County."
 permalink: /faq/fence-permits-conroe-area/
 kind: faq

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Fence for Wind in Conroe & Lake Conroe | 76 Fence"
+title: "Best Fence for Wind in Conroe & Lake Conroe"
 description: "Which fences handle Conroe-area wind best, how solid panels load posts, what Beryl's gusts showed, and what changes on lake and wooded lots near Conroe."
 permalink: /faq/best-fence-for-wind/
 kind: faq

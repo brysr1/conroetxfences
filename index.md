@@ -7,7 +7,8 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
 <section class="lc-hero">
   <div class="lc-wrap lc-hero-in">
     <div>
-      <h1>Fences built for <em>Conroe</em> and the Lake Conroe life.</h1>
+      <h1>Fence Company in Conroe, TX</h1>
+      <p class="lc-hero-sub">Fences built for <em>Conroe</em> and the Lake Conroe life.</p>
       <p class="lc-hero-lede">New fences, gates, and repairs for homes, lake lots, acreage, and businesses, from new subdivisions off Loop 336 to waterfront lots on the east shore and ranch land up toward Huntsville.</p>
       <div class="lc-btns">
         <a class="lc-btn lc-btn--sun" href="{{ site.business.book_url }}">Book a Free Estimate</a>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wood & Cedar Fences in Conroe, TX | 76 Fence of Conroe
+title: "Wood & Cedar Fences in Conroe, TX"
 description: Cedar and pine fence options for Conroe yards, with build styles, upkeep for East Texas humidity, and cost notes. Free estimates at (713) 331-9419.
 permalink: /materials/wood-cedar/
 crumb: { title: "Materials", url: "/materials/" }

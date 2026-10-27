@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How to Fix a Leaning Fence Post in Conroe | 76 Fence of Conroe"
+title: "How to Fix a Leaning Fence Post in Conroe"
 description: "Why fence posts lean on Conroe-area lots (rot, shallow sets, wet sand over clay, roots) and when to brace, reset, or replace them. Advice from the Conroe crew."
 permalink: /resources/fix-leaning-fence-post-conroe/
 kind: article

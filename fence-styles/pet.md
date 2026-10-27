@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dog & Pet Fences in Conroe, TX | 76 Fence of Conroe
+title: "Dog & Pet Fences in Conroe, TX"
 description: Dog fences for Conroe yards and acreage, planned around your dog with close spacing, anti-dig bases, and gates that latch. Call (713) 331-9419.
 permalink: /fence-styles/pet/
 crumb: { title: "Fence Styles", url: "/fence-styles/" }

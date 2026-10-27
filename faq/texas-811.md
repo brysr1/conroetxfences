@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Texas 811 Before a Fence in Conroe | 76 Fence of Conroe"
+title: "Texas 811 Before a Fence in Conroe"
 description: "How Texas 811 locates work before fence posts go in around Conroe and Lake Conroe: notice timing, the 14-day window, MUD lines, and private lines 811 skips."
 permalink: /faq/texas-811/
 kind: faq

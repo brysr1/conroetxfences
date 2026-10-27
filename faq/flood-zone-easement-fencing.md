@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Flood Zone & Easement Fences, Conroe Area | 76 Fence of Conroe"
+title: "Flood Zone & Easement Fences, Conroe Area"
 description: "Fencing a FEMA flood zone or utility or drainage easement near Conroe: county floodplain permits, Willis and Panorama Village rules, and fences that pass water."
 permalink: /faq/flood-zone-easement-fencing/
 kind: faq

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Board on Board vs. Shadowbox Fence | 76 Fence of Conroe"
+title: "Board on Board vs. Shadowbox Fence"
 description: "Board on board vs. shadowbox fence for a Conroe backyard: privacy, wind, looks from both sides, upkeep under the pines, and which posts each one needs."
 permalink: /resources/board-on-board-vs-shadowbox-fence/
 kind: article

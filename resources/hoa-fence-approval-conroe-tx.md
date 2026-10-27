@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Conroe HOA Fence Approval, Step by Step | 76 Fence of Conroe"
+title: "Conroe HOA Fence Approval, Step by Step"
 description: "How to get a fence approved by an HOA in Grand Central Park, Harper's Preserve, Artavia, Mavera, Panorama Village, or a Lake Conroe community, step by step."
 permalink: /resources/hoa-fence-approval-conroe-tx/
 kind: article

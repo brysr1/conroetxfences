@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Are Fence Contractors Licensed in Texas? | 76 Fence of Conroe"
+title: "Are Fence Contractors Licensed in Texas?"
 description: "Texas has no state fence contractor license. What to check instead: liability and workers' comp certificates, TDLR electricians for gate power, and permits."
 permalink: /faq/licensed-and-insured/
 kind: faq

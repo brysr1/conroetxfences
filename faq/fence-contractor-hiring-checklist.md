@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fence Contractor Hiring Checklist | 76 Fence of Conroe"
+title: "Fence Contractor Hiring Checklist"
 description: "A checklist for comparing fence quotes near Conroe: post depth and concrete, 811, permits and HOA, lake-lot rules, insurance, warranty, payments, and cleanup."
 permalink: /faq/fence-contractor-hiring-checklist/
 kind: faq

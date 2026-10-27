@@ -25,7 +25,7 @@ faqs:
     a: "Yes. Communities like [Deer Forest](/neighborhoods/deer-forest/), with lots of about an acre, often need perimeter fencing, drive gates, or [farm and ranch fencing](/materials/farm-ranch/)."
 ---
 
-{% include page-hero.html kicker="Service Areas" title="Fence Installation in Willis &amp; East Lake Conroe" lede="Boat-gate side yards, bulkhead lots, and wooded acreage just up I-45 from our Conroe office." image="1671120707512-d4f8ecb8dbcb" alt="Boathouse and fall trees reflected on a still lake" %}
+{% include page-hero.html kicker="Service Areas" title="Fence Company in Willis, TX" lede="Boat-gate side yards, bulkhead lots, and wooded acreage just up I-45 from our Conroe office." image="1671120707512-d4f8ecb8dbcb" alt="Boathouse and fall trees reflected on a still lake" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--top lc-split--wide-text">

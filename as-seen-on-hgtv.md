@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "76 Fence on HGTV's Worst Yard on the Block, Season 1"
+title: "On HGTV's Worst Yard on the Block, Season 1"
 description: The 76 Fence family built fences for three Worst Yard on the Block episodes on HGTV. Air dates, episode notes, and what our crews built.
 permalink: /as-seen-on-hgtv/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "When to Replace a Fence in Conroe | 76 Fence of Conroe"
+title: "When to Replace a Fence in Conroe"
 description: "When to replace a fence instead of repairing it: seven signs we check on Conroe, Willis, and Montgomery jobs, from failing posts to rot in the rails."
 permalink: /resources/when-to-replace-fence-conroe/
 kind: article

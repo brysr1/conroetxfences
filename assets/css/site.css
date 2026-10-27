@@ -187,6 +187,8 @@ ul, ol { padding-left: 1.2em; }
 .lc-hero-in { display: grid; grid-template-columns: 1.02fr 1fr; gap: 48px; align-items: center; padding-top: 56px; padding-bottom: 72px; }
 .lc-hero h1 { margin-bottom: .35em; }
 .lc-hero h1 em { font-style: normal; color: var(--lake); }
+.lc-hero-sub { margin: -.2em 0 .7em; font-family: var(--font-h); font-weight: 600; font-size: clamp(1.25rem, 2.2vw, 1.6rem); line-height: 1.2; color: var(--navy); }
+.lc-hero-sub em { font-style: normal; color: var(--lake); }
 .lc-hero-lede { font-size: 1.15rem; color: var(--muted); max-width: 34em; }
 .lc-chip { display: inline-flex; align-items: center; gap: 8px; background: var(--white); border: 1px solid var(--sand-2); color: var(--navy); border-radius: 99px; padding: 6px 14px 6px 8px; font-size: .86rem; font-weight: 600; margin-bottom: 20px; }
 .lc-chip::before { content: ""; width: 10px; height: 10px; border-radius: 50%; background: var(--lake-2); box-shadow: 0 0 0 4px rgba(43, 139, 192, .18); margin-left: 4px; }

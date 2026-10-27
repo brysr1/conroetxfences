@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation in Evergreen, Conroe TX | 76 Fence
+title: "Fence Installation in Evergreen, Conroe TX"
 description: Fences for Shea Homes' Evergreen and Trilogy Evergreen at SH 242 and FM 1314, including creek and greenbelt lots. Free estimates at (713) 331-9419.
 permalink: /neighborhoods/evergreen/
 crumb: { title: "Conroe", url: "/service-areas/conroe-tx/" }

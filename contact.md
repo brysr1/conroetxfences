@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact 76 Fence of Conroe | Free Fence Estimate
+title: "Contact Us for a Free Fence Estimate"
 description: Book a free fence estimate with 76 Fence of Conroe at 1135 Grand Central Pkwy, Suite 250, Conroe, TX 77304. Call or text (713) 331-9419 or book online.
 permalink: /contact/
 ---

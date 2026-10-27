@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why Conroe Fence Posts Fail | 76 Fence of Conroe"
+title: "Why Conroe Fence Posts Fail"
 description: "The main reasons fence posts lean, rot, or snap around Conroe: shallow sets in loose sand, water trapped on clay, rot at grade, bad concrete tops, and roots."
 permalink: /faq/why-fence-posts-fail/
 kind: faq

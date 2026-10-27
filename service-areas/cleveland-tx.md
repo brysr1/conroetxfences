@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation in Cleveland, TX | 76 Fence of Conroe
+title: "Fence Installation in Cleveland, TX"
 description: Perimeter fences, gates, and yard fencing for Cleveland, TX and Liberty County rural lots, from Colony Ridge to Southern Crossing. Call (713) 331-9419.
 permalink: /service-areas/cleveland-tx/
 crumb: { title: "Service Areas", url: "/service-areas/" }
@@ -24,7 +24,7 @@ faqs:
     a: "No. Encino Estates is off FM 1008 near Kenefick, north of Dayton, with Dayton mailing addresses and Dayton ISD schools. We list it with Cleveland because it's the closest hub we serve."
 ---
 
-{% include page-hero.html kicker="Service Areas" title="Fence Installation in Cleveland, TX" lede="Perimeter fences, drive gates, and yard fencing for Liberty County's rural lots and growing subdivisions." image="1559792643-22bd43155d5a" alt="Country lane beside a rail fence and tall grass" %}
+{% include page-hero.html kicker="Service Areas" title="Fence Company in Cleveland, TX" lede="Perimeter fences, drive gates, and yard fencing for Liberty County's rural lots and growing subdivisions." image="1559792643-22bd43155d5a" alt="Country lane beside a rail fence and tall grass" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--top lc-split--wide-text">

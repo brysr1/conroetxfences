@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How We Set Fence Posts in Conroe Soil | 76 Fence of Conroe"
+title: "How We Set Fence Posts in Conroe Soil"
 description: "Conroe yards are mostly loamy sand over slow-draining clay. How that shapes our post depth, concrete, water in post holes, and gate and corner posts."
 permalink: /resources/fence-posts-conroe-soil/
 kind: article

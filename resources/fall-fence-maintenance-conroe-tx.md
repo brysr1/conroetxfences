@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fall Fence Maintenance in Conroe, TX | 76 Fence of Conroe"
+title: "Fall Fence Maintenance in Conroe, TX"
 description: "A fall fence checklist for Conroe, Willis, and Lake Conroe yards: clear pine straw, check posts after storm season, reset sprinklers, and stain while it's dry."
 permalink: /resources/fall-fence-maintenance-conroe-tx/
 kind: article

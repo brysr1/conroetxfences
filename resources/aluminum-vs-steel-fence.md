@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aluminum vs. Steel Fence in Conroe | 76 Fence of Conroe"
+title: "Aluminum vs. Steel Fence in Conroe"
 description: "Ornamental aluminum or steel near Conroe? Rust, strength, lake and golf lots, pool fences, Panorama Village's golf-lot rule, and cost, side by side."
 permalink: /resources/aluminum-vs-steel-fence/
 kind: article

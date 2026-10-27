@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Will a Vinyl Fence Warp in Conroe Heat? | 76 Fence of Conroe"
+title: "Will a Vinyl Fence Warp in Conroe Heat?"
 description: "Why quality vinyl rarely warps in Conroe summers, what really makes panels bow or sag, and how post spacing, rails, color, and window glare play into it."
 permalink: /faq/will-vinyl-warp-in-heat/
 kind: faq

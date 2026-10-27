@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Composite vs. Wood Fence in Conroe | 76 Fence of Conroe"
+title: "Composite vs. Wood Fence in Conroe"
 description: "Composite or wood for a Conroe fence? Up-front cost, upkeep, shade and humidity on wooded lots, summer heat, HOA approval, and how the two compare over time."
 permalink: /resources/composite-vs-wood-fence/
 kind: article

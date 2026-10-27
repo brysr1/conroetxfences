@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Commercial Fencing for Conroe Businesses | 76 Fence of Conroe"
+title: "Commercial Fencing for Conroe Businesses"
 description: "Planning a commercial fence on I-45, Loop 336, or SH 105 in Conroe: permits by city, yard and retail options, gates, pool code, insurance, and scheduling."
 permalink: /resources/commercial-security-fencing-conroe-tx/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wood vs. Vinyl Fence in Conroe's Climate | 76 Fence of Conroe"
+title: "Wood vs. Vinyl Fence in Conroe's Climate"
 description: "Wood or vinyl for a Conroe-area yard? How each handles heat, about 51 inches of rain a year, shaded pine lots, falling limbs, upkeep, cost, and HOA rules."
 permalink: /faq/wood-vs-vinyl-texas-climate/
 kind: faq

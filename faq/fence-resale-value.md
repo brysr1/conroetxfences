@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Does a Fence Add Resale Value in Conroe? | 76 Fence of Conroe"
+title: "Does a Fence Add Resale Value in Conroe?"
 description: "What Conroe-area buyers expect from a fence on master-planned, lake, golf, and acreage lots, why condition beats material, and what to fix before listing."
 permalink: /faq/fence-resale-value/
 kind: faq

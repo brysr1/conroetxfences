@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Security Fence Types for Conroe Properties | 76 Fence of Conroe"
+title: "Security Fence Types for Conroe Properties"
 description: "Chain link with slats, welded anti-climb mesh, or ornamental steel? How each security fence works for Conroe homes, lake houses, acreage, and business yards."
 permalink: /resources/security-fence-types/
 kind: article

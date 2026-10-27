@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fencing a New Build in Conroe, TX | 76 Fence of Conroe"
+title: "Fencing a New Build in Conroe, TX"
 description: "Fencing a new-construction home in Conroe or Willis: survey pins, easements, the builder fence, and timing the job around sod, sprinklers, and settling soil."
 permalink: /resources/new-construction-fence-conroe-tx/
 kind: article

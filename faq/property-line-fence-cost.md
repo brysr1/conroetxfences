@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Who Pays for a Property Line Fence? | 76 Fence of Conroe"
+title: "Who Pays for a Property Line Fence?"
 description: "Who pays for a fence between neighbors in Texas, the 6-month notice rule for removing a shared fence, stock laws on acreage, and how to put a split in writing."
 permalink: /faq/property-line-fence-cost/
 kind: faq
