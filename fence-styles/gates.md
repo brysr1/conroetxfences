@@ -90,6 +90,22 @@ faqs:
 <section class="lc-section">
   <div class="lc-wrap">
     <div class="lc-head">
+      <p class="lc-kicker">Openers</p>
+      <h2>Solar or wired?</h2>
+    </div>
+    <ul class="lc-checks lc-checks--one">
+      <li><strong>Solar.</strong> A panel charges a battery at the gate, so there&rsquo;s no power line to trench down a long drive. It&rsquo;s the common pick for acreage entrances. The panel needs several hours of direct sun, so under pines or big oaks it may go on a separate pole where it clears the tree line.</li>
+      <li><strong>Wired.</strong> Runs on household power. It suits heavy gates, gates that open many times a day, and entrances close to the house. The line-voltage feed is generally work for a licensed electrician, and we coordinate with yours.</li>
+      <li><strong>Battery backup.</strong> Solar keeps running on its battery during an outage. A wired opener needs a backup battery to do the same.</li>
+      <li><strong>Manual release.</strong> Every opener has one, so the gate can be opened by hand. We show you how it works at the walkthrough.</li>
+    </ul>
+    <p class="lc-note lc-mt">More on power, swing vs. slide, and safety in our <a href="/resources/automatic-gate-opener-conroe-tx/">automatic gate opener guide</a>.</p>
+  </div>
+</section>
+
+<section class="lc-section">
+  <div class="lc-wrap">
+    <div class="lc-head">
       <p class="lc-kicker">Local conditions</p>
       <h2>Keeping a gate swinging true</h2>
     </div>
