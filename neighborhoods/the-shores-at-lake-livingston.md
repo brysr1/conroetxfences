@@ -40,7 +40,7 @@ faqs:
       <h2>Fences that suit The Shores at Lake Livingston</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>See-through lake side</h3><p>Aluminum picket or cable-style rail fences keep the open view across the water.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>See-through lake side</h3><p>Aluminum picket or cable-style rail fences keep the open view across the water.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>A pet yard by the house</h3><p>A smaller enclosed yard off the back porch keeps dogs close and out of the water.</p><a class="lc-more" href="{{ '/fence-styles/pet/' | relative_url }}">Pet fences</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Split rail on the side lines</h3><p>An open rail fence marks a long side boundary without boxing in the lot.</p><a class="lc-more" href="{{ '/fence-styles/split-rail/' | relative_url }}">Split rail</a></div></div>
     </div>

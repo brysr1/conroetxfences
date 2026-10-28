@@ -17,7 +17,8 @@ main:
     children:
       - { title: Wood & Cedar, url: /materials/wood-cedar/ }
       - { title: Vinyl, url: /materials/vinyl/ }
-      - { title: Ornamental Steel & Aluminum, url: /materials/ornamental-steel-aluminum/ }
+      - { title: Ornamental Steel, url: /materials/ornamental-steel-aluminum/ }
+      - { title: Aluminum, url: /materials/aluminum/ }
       - { title: Chain Link, url: /materials/chain-link/ }
       - { title: Composite, url: /materials/composite-trex/ }
       - { title: Farm & Ranch, url: /materials/farm-ranch/ }

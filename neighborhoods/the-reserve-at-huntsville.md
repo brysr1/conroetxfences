@@ -62,7 +62,7 @@ faqs:
     </div>
     <div class="lc-grid lc-grid-3">
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Upgraded cedar privacy</h3><p>Heavier posts set deeper, better boards, and an optional stain so the fence lasts through Huntsville summers.</p><a class="lc-more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar</a></div></div>
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Open metal toward the pond</h3><p>Ornamental aluminum keeps a view of the water or trail and still marks the yard.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Open metal toward the pond</h3><p>Ornamental aluminum keeps a view of the water or trail and still marks the yard.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Dog-proof details</h3><p>Dig guards along the bottom, self-closing gate hinges, and latches a nose can&rsquo;t lift.</p><a class="lc-more" href="{{ '/fence-styles/pet/' | relative_url }}">Pet fences</a></div></div>
     </div>
     <p class="lc-related lc-mt"><strong>Related:</strong> <a href="{{ '/hoa-fencing/' | relative_url }}">HOA fencing</a> · <a href="{{ '/residential-fencing/' | relative_url }}">Residential fencing</a> · <a href="{{ '/pricing-guide/' | relative_url }}">Pricing guide</a></p>

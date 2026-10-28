@@ -79,7 +79,7 @@ faqs:
       <p class="lc-kicker">Parks next door</p>
       <h2>Fencing a lot that faces open space</h2>
       <p>Backing up to a park or preserve gives you a quiet view. It also means your rear fence is on view to everyone who walks the trail, and that the association may care more about how it looks.</p>
-      <p>If privacy is not the goal, an open style such as <a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">ornamental aluminum</a> keeps the view while still keeping a dog in. We can price both options side by side.</p>
+      <p>If privacy is not the goal, an open style such as <a href="{{ '/materials/aluminum/' | relative_url }}">ornamental aluminum</a> keeps the view while still keeping a dog in. We can price both options side by side.</p>
     </div>
   </div>
 </section>

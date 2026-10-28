@@ -116,7 +116,7 @@ faqs:
 
 <section class="lc-section lc-section--tight">
   <div class="lc-wrap">
-    <p class="lc-related"><strong>Related:</strong> <a href="/fence-styles/">All fence styles</a> · <a href="/materials/ornamental-steel-aluminum/">Ornamental steel &amp; aluminum</a> · <a href="/fence-styles/pool-enclosure/">Pool enclosures</a> · <a href="/fence-styles/picket/">Picket</a></p>
+    <p class="lc-related"><strong>Related:</strong> <a href="/fence-styles/">All fence styles</a> · <a href="/materials/ornamental-steel-aluminum/">Ornamental steel</a> · <a href="/materials/aluminum/">Aluminum</a> · <a href="/fence-styles/pool-enclosure/">Pool enclosures</a> · <a href="/fence-styles/picket/">Picket</a></p>
   </div>
 </section>
 

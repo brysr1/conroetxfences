@@ -56,7 +56,7 @@ faqs:
         <h3>Ornamental aluminum</h3>
         <p><strong>For:</strong> rust-free, open view, low upkeep, and narrow picket spacing is available.</p>
         <p><strong>Against:</strong> no privacy from neighbors, and costs more than wood.</p>
-        <a class="lc-more" href="/materials/ornamental-steel-aluminum/">Ornamental metal</a>
+        <a class="lc-more" href="/materials/aluminum/">Aluminum</a>
       </div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body">
         <h3>Vinyl or wood privacy</h3>

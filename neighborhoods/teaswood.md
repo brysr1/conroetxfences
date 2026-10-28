@@ -45,7 +45,7 @@ faqs:
       <p class="lc-lede">On acreage, most owners mix materials: something handsome near the house and the drive, something practical along the back.</p>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card"><div class="lc-card-body"><h3>Iron along the front</h3><p>Ornamental steel across the front and down the drive gives a finished look and keeps the trees and house in view.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card"><div class="lc-card-body"><h3>Iron along the front</h3><p>Ornamental steel across the front and down the drive gives a finished look and keeps the trees and house in view.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Driveway gates</h3><p>A swing or slide gate sized for the drive, with posts and footings set to carry its weight and an opener if you want one.</p><a class="lc-more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Perimeter runs</h3><p>For back and side lines through the woods, wood privacy, pipe and wire, or rail fencing, depending on what the fence needs to do.</p><a class="lc-more" href="{{ '/acreage-ranch-fencing/' | relative_url }}">Acreage fencing</a></div></div>
     </div>

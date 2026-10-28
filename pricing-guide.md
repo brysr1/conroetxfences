@@ -22,8 +22,8 @@ permalink: /pricing-guide/
           <tr><td>Pressure-treated pine</td><td>Budget privacy fences</td><td>$25&ndash;$35</td></tr>
           <tr><td><a href="{{ '/materials/wood-cedar/' | relative_url }}">Cedar</a></td><td>Backyard privacy, stained to match</td><td>$30&ndash;$47</td></tr>
           <tr><td><a href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></td><td>Low-upkeep privacy and rail</td><td>$25&ndash;$70 (3-rail starts around $25&ndash;$30; privacy panels start around $50)</td></tr>
-          <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Aluminum</a></td><td>Pools, front yards, lake views</td><td>$40&ndash;$75</td></tr>
-          <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Steel</a></td><td>Heavier-duty ornamental and security</td><td>$50&ndash;$85</td></tr>
+          <tr><td><a href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></td><td>Pools, front yards, lake views</td><td>$40&ndash;$100</td></tr>
+          <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Steel</a></td><td>Heavier-duty ornamental and security</td><td>$40&ndash;$100</td></tr>
           <tr><td><a href="{{ '/materials/composite-trex/' | relative_url }}">Composite / Trex</a></td><td>Wood look, least maintenance</td><td>$100&ndash;$175+</td></tr>
           <tr><td><a href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch</a></td><td>No-climb horse wire, field fence, barbed strands</td><td>Depends heavily on acreage and terrain; we price it at a site visit</td></tr>
         </tbody>

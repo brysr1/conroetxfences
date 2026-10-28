@@ -67,7 +67,7 @@ faqs:
       <h2>Fences that suit Lake Conroe Hills</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Aluminum on the canal side</h3><p>Open pickets that keep the water in view and will not rust out in lake air.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Aluminum on the canal side</h3><p>Open pickets that keep the water in view and will not rust out in lake air.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Chain link for value</h3><p>A durable, lower-cost choice for interior lots, dog runs, and side yards.</p><a class="lc-more" href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Dock and walk gates</h3><p>Self-closing gates that let you get to the bulkhead with a cooler in one hand.</p><a class="lc-more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates</a></div></div>
     </div>

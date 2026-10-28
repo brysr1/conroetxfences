@@ -7,7 +7,7 @@ kind: article
 topic: "Choosing a fence"
 order: 7
 headline: "Aluminum vs. Steel Ornamental Fence: Which One for Your Lot?"
-lede: "Both look like black iron from the street. The differences show up in rust, stiffness, and price, and in where on the property the fence goes."
+lede: "Both look like black iron from the street. The differences show up in rust and stiffness, and in where on the property the fence goes."
 date: 2026-10-14
 read: 4
 image: /assets/images/fences/ornamental-lake-lawn.jpg
@@ -34,7 +34,7 @@ faqs:
 <tbody>
 <tr><td>Rust</td><td>Can&rsquo;t rust</td><td>Rusts where the coating is chipped</td></tr>
 <tr><td>Stiffness</td><td>Lighter; can bend under a hard hit</td><td>Heavier and more rigid</td></tr>
-<tr><td>Typical installed price per foot*</td><td>$40&ndash;$75</td><td>$50&ndash;$85</td></tr>
+<tr><td>Typical installed price per foot*</td><td>$40&ndash;$100</td><td>$40&ndash;$100</td></tr>
 <tr><td>Best spots</td><td>Pools, lakefront, damp shaded yards</td><td>Drive gates, street frontage, security runs</td></tr>
 <tr><td>Upkeep</td><td>An occasional rinse</td><td>A rinse, plus touch-up paint on scratches</td></tr>
 </tbody>

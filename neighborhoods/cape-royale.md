@@ -62,7 +62,7 @@ faqs:
       <h2>Fences that suit Cape Royale</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Low, open lake fencing</h3><p>Aluminum pickets or a simple rail keep the lake in view on a small waterfront lot.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Low, open lake fencing</h3><p>Aluminum pickets or a simple rail keep the lake in view on a small waterfront lot.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Bulkhead and dock gates</h3><p>A latching gate where the yard meets the bulkhead or dock walk, hung on posts that won&rsquo;t sag in soft ground.</p><a class="lc-more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Low-upkeep privacy</h3><p>Vinyl or composite panels for street-side screening that won&rsquo;t need staining every few years in lake humidity.</p><a class="lc-more" href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></div></div>
     </div>

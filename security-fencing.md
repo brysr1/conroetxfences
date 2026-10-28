@@ -46,7 +46,7 @@ faqs:
       <div class="lc-card"><div class="lc-card-body"><h3>Commercial chain link</h3><p>Heavier fabric and thicker posts than residential chain link, with optional privacy slats.</p><a class="lc-more" href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Welded mesh panels</h3><p>Rigid panels with small openings that are hard to climb or cut.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Metal fencing</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Ornamental steel</h3><p>Spear-top pickets that secure a site while still looking good at the front entrance.</p><a class="lc-more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental</a></div></div>
-      <div class="lc-card"><div class="lc-card-body"><h3>Aluminum</h3><p>A lighter, rust-free option for offices and storefronts that need a clear boundary.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Aluminum</a></div></div>
+      <div class="lc-card"><div class="lc-card-body"><h3>Aluminum</h3><p>A lighter, rust-free option for offices and storefronts that need a clear boundary.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
     </div>
   </div>
 </section>

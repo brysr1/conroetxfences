@@ -67,7 +67,7 @@ faqs:
       <h2>Fences that suit River Plantation</h2>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Ornamental aluminum</h3><p>Open pickets let floodwater and debris pass through, and aluminum will not rust or rot after it gets wet. A good choice for low back yards near the river.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Ornamental aluminum</h3><p>Open pickets let floodwater and debris pass through, and aluminum will not rust or rot after it gets wet. A good choice for low back yards near the river.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Wood privacy on steel posts</h3><p>The look most homes here already have, built on galvanized steel posts that hold up better in soggy ground than wood posts do.</p><a class="lc-more" href="{{ '/fence-styles/privacy/' | relative_url }}">Privacy fences</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Repair or full replacement</h3><p>If only a few posts failed, a repair may be enough. If the whole line leans, we will say so and price a replacement next to the repair.</p><a class="lc-more" href="{{ '/maintenance-repair/' | relative_url }}">Repair &amp; maintenance</a></div></div>
     </div>

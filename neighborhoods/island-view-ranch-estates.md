@@ -60,7 +60,7 @@ faqs:
     </div>
     <div class="lc-grid lc-grid-3">
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Bulkhead gates</h3><p>A self-closing, latching gate on the path to the water, with hinges built for lake weather.</p><a class="lc-more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates</a></div></div>
-      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Aluminum along the water</h3><p>Powder-coated aluminum pickets give a clear view of Pine Island and won&rsquo;t rust.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Aluminum along the water</h3><p>Powder-coated aluminum pickets give a clear view of Pine Island and won&rsquo;t rust.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card lc-card--flat"><div class="lc-card-body"><h3>Pool enclosures</h3><p>If the lot has or will have a pool, a code-minded enclosure with self-latching gates.</p><a class="lc-more" href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures</a></div></div>
     </div>
   </div>

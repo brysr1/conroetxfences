@@ -47,7 +47,7 @@ faqs:
       <p class="lc-lede">Final say on style belongs to the committee. These are the options we usually price here.</p>
     </div>
     <div class="lc-grid lc-grid-3">
-      <div class="lc-card"><div class="lc-card-body"><h3>Ornamental aluminum</h3><p>An open fence that keeps pets in without hiding a lake view. Aluminum does not rust in lake humidity the way plain steel can.</p><a class="lc-more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a></div></div>
+      <div class="lc-card"><div class="lc-card-body"><h3>Ornamental aluminum</h3><p>An open fence that keeps pets in without hiding a lake view. Aluminum does not rust in lake humidity the way plain steel can.</p><a class="lc-more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Wood privacy replacement</h3><p>Swap out a fence from the early 2000s for a new one on fresh posts, built to the look the committee approves.</p><a class="lc-more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar</a></div></div>
       <div class="lc-card"><div class="lc-card-body"><h3>Gates for boat gear</h3><p>Wider side gates for kayaks, trailers, and coolers headed to the marina, hung on heavy hinges that will not sag.</p><a class="lc-more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates</a></div></div>
     </div>
