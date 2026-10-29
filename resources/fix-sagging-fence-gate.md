@@ -3,7 +3,6 @@ layout: page
 title: "Fix a Sagging Fence Gate in Conroe"
 description: "Why wood and metal gates sag around Conroe, how to tell a hinge problem from a post problem, and fixes that last: braces, anti-sag kits, steel frames, posts."
 permalink: /resources/fix-sagging-fence-gate/
-canonical_url: https://northhoustonfence.com/resources/sagging-fence-gate-houston/
 kind: article
 topic: "Repairs & upkeep"
 order: 3
