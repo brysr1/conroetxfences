@@ -86,6 +86,24 @@ faqs:
   </div>
 </section>
 
+<section class="lc-section">
+  <div class="lc-wrap">
+    <div class="lc-head">
+      <p class="lc-kicker">Gates &amp; openers</p>
+      <h2>Gates and openers</h2>
+      <p class="lc-lede">A security fence is only as strong as its gates. Every vehicle should come through one you control.</p>
+    </div>
+    <ul class="lc-checks lc-checks--one">
+      <li><strong>Gate type.</strong> Swing gates for standard openings. Slide or cantilever gates for wide openings and tight drives where there&rsquo;s no room for a swing.</li>
+      <li><strong>Access control.</strong> Keypads, card readers, remotes, or a call box. We coordinate with your access-control or camera installer if you have one.</li>
+      <li><strong>Openers.</strong> Solar where there&rsquo;s no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</li>
+      <li><strong>Safety sensors.</strong> Sensors stop or reverse the gate if a person or vehicle is in the way.</li>
+      <li><strong>Emergency access.</strong> Fire department access is planned on gated sites.</li>
+    </ul>
+    <p class="lc-note lc-mt">See <a href="/fence-styles/gates/">gates &amp; openers</a>.</p>
+  </div>
+</section>
+
 {% include faq.html heading="Security fencing questions" %}
 
 <section class="lc-section lc-section--tight lc-section--sky">
