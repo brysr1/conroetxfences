@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Flood Zone & Easement Fences, Conroe Area"
-description: "Fencing a FEMA flood zone or utility or drainage easement near Conroe: county floodplain permits, Willis and Panorama Village rules, and fences that pass water."
+description: "Fencing a FEMA flood zone or utility or drainage easement near Conroe: county floodplain permits, Panorama Village rules, and fences that pass water."
 permalink: /faq/flood-zone-easement-fencing/
 kind: faq
 topic: "Before you build"
 order: 4
 headline: "Can I build a fence in a flood zone or an easement?"
-lede: "Usually yes, with conditions. Who has a say in Montgomery and Walker counties, Willis, and Panorama Village, and fence designs that let water through."
+lede: "Usually yes, with conditions. Who has a say in Montgomery and Walker counties and Panorama Village, and fence designs that let water through."
 date: 2026-10-14
 read: 4
 related:
@@ -18,7 +18,7 @@ faqs:
   - q: "How do I find out if my lot is in a flood zone?"
     a: "Enter your address on FEMA's Map Service Center at msc.fema.gov. An elevation certificate or your survey may also note the flood zone."
   - q: "If a utility removes my fence from an easement, will they put it back?"
-    a: "Don't count on it. Willis code, for example, lets city maintenance crews remove fences in utility easements without liability for damage. A gate or removable section across the easement limits what you lose."
+    a: "Don't count on it. The easement gives the utility the right to work there, so plan for the fence to come down. A gate or removable section across the easement limits what you lose."
   - q: "Can a fence send water onto my neighbor's lot?"
     a: "It can, if a solid fence or a continuous bottom board dams a swale. We keep drainage paths open, and your city or HOA may require it."
   - q: "My Lake Conroe lot is above the 201-foot line. Can it still flood?"
