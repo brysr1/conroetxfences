@@ -61,5 +61,5 @@ faqs:
 
 <h2>How we price it</h2>
 <p>When a fence is borderline, we quote the repair and the replacement side by side, with photos of what we found, so you can compare the numbers instead of guessing. Our <a href="/maintenance-repair/">repair and maintenance</a> page explains what's included, and the <a href="/pricing-guide/">pricing guide</a> lists typical installed prices per foot by material. Late fall and winter are a good time to book a replacement, since calendars tend to have more room than in spring.</p>
-<p>Not sure which side your fence is on? Call or text (713) 331-9419 with a few photos of the whole line, or <a href="https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=conroetxfences&utm_medium=website&utm_campaign=site_booking" rel="noopener">book a free estimate online</a>. We'll walk it and tell you plainly whether it's worth fixing.</p>
+<p>Not sure which side your fence is on? Call or text (713) 331-9419 with a few photos of the whole line, or <a href="https://clienthub.getjobber.com/hubs/31d0f40c-3dc8-4b93-82d2-5c4fae71fc07/public/requests/4602537/new?utm_source=conroetxfences&utm_medium=website" rel="noopener">book a free estimate online</a>. We'll walk it and tell you plainly whether it's worth fixing.</p>
 {% include article-end.html %}
