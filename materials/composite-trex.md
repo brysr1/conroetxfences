@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Composite Fences in Conroe, TX | Trex-Style Wood Look
+title: "Composite Fences in Conroe, TX"
 description: Composite fencing for Conroe homes that want a wood look without resealing, with pros, trade-offs, and climate notes. Call (713) 331-9419.
 permalink: /materials/composite-trex/
 crumb: { title: "Materials", url: "/materials/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Some guidelines don't mention it yet, and others treat it like wood or like vinyl. We check what your community's current guidelines say and include product details in the submittal."
 ---
 
-{% include page-hero.html kicker="Materials · Composite" title="Composite Fences" lede="The look of a stained wood fence, with no sealing, no rot, and no termites, for owners planning to stay a long time." image="/assets/images/fences/composite-gray-patio.jpg" alt="New gray composite fence around a modern patio" %}
+{% include page-hero.html kicker="Materials · Composite" title="Composite Fences in Conroe, TX" lede="The look of a stained wood fence, with no sealing, no rot, and no termites, for owners planning to stay a long time." image="/assets/images/fences/composite-gray-patio.jpg" alt="New gray composite fence around a modern patio" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

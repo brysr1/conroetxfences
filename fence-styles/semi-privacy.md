@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semi-Privacy Fences in Conroe, TX | Shadowbox & Lattice
+title: "Semi-Privacy Fences in Conroe, TX"
 description: Shadowbox, lattice-top, and spaced-board fences for Conroe yards that want screening with light and airflow. Call 76 Fence of Conroe at (713) 331-9419.
 permalink: /fence-styles/semi-privacy/
 crumb: { title: "Fence Styles", url: "/fence-styles/" }
@@ -13,7 +13,7 @@ faqs:
     a: "Sometimes, if the posts are long enough and still sound. If not, we can replace the posts and reuse a run of good panels below the new top."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Semi-Privacy" title="Semi-Privacy Fences" lede="Screening that softens the view of the neighbors without boxing in the yard or blocking the breeze." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New cedar shadowbox fence along a landscaped side yard" %}
+{% include page-hero.html kicker="Fence Styles · Semi-Privacy" title="Semi-Privacy Fences in Conroe, TX" lede="Screening that softens the view of the neighbors without boxing in the yard or blocking the breeze." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New cedar shadowbox fence along a landscaped side yard" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

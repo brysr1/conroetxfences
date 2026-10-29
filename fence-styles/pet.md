@@ -15,7 +15,7 @@ faqs:
     a: "Yes. A fenced yard off the back of the house, or a chain link or no-climb run, keeps the dog contained without the cost of fencing every acre."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Pet" title="Pet &amp; Dog Fences" lede="A fence planned around how your dog gets out: through it, under it, or over it." image="1623943458408-a2ae39df0452" alt="Golden puppy running beside a wood privacy fence" %}
+{% include page-hero.html kicker="Fence Styles · Pet" title="Dog &amp; Pet Fences in Conroe, TX" lede="A fence planned around how your dog gets out: through it, under it, or over it." image="1623943458408-a2ae39df0452" alt="Golden puppy running beside a wood privacy fence" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

@@ -13,7 +13,7 @@ faqs:
     a: "Painted wood has the classic look but needs repainting every few years. White vinyl keeps its color with a rinse. Aluminum pickets give a cleaner, more formal line."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Picket" title="Picket Fences" lede="A short, friendly fence that frames the front yard or garden and keeps the house in full view." image="1583805978118-ba9a81ac1399" alt="White picket fence in front of a blue house with flowering shrubs" %}
+{% include page-hero.html kicker="Fence Styles · Picket" title="Picket Fences in Conroe, TX" lede="A short, friendly fence that frames the front yard or garden and keeps the house in full view." image="1583805978118-ba9a81ac1399" alt="White picket fence in front of a blue house with flowering shrubs" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

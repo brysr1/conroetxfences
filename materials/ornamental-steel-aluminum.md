@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ornamental Steel Fences | Conroe & Lake Conroe
+title: "Ornamental Steel Fences in Conroe, TX"
 description: Powder-coated ornamental steel fences for Conroe frontage, drive gates, security, golf and lake lots, with rust and upkeep notes. Call (713) 331-9419.
 permalink: /materials/ornamental-steel-aluminum/
 crumb: { title: "Materials", url: "/materials/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Wind passes straight through the pickets, so they carry far less load than a solid fence. The usual storm damage is a limb landing on a panel, and a bent section can be replaced on its own."
 ---
 
-{% include page-hero.html kicker="Materials · Ornamental Metal" title="Ornamental Steel" lede="Heavy, rigid black picket fencing for frontage, drive gates, and security, that still leaves the lake, fairway, or garden in view." image="1619322704995-5215d5f47a75" alt="Black spear-top ornamental iron fence with garden behind" %}
+{% include page-hero.html kicker="Materials · Ornamental Metal" title="Ornamental Steel Fences in Conroe, TX" lede="Heavy, rigid black picket fencing for frontage, drive gates, and security, that still leaves the lake, fairway, or garden in view." image="1619322704995-5215d5f47a75" alt="Black spear-top ornamental iron fence with garden behind" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

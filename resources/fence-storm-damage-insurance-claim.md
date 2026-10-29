@@ -3,6 +3,7 @@ layout: page
 title: "Fence Storm Damage & Insurance Claims"
 description: "Storm knocked down your fence near Conroe? What to photograph, what Texas home policies usually cover, why flood is separate, and what goes in the estimate."
 permalink: /resources/fence-storm-damage-insurance-claim/
+canonical_url: https://northhoustonfence.com/resources/fence-storm-damage-insurance-claim-north-houston/
 kind: article
 topic: "Repairs & upkeep"
 order: 5

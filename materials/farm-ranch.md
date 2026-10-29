@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Farm & Ranch Fence Materials | Conroe & Huntsville Acreage
+title: "Farm & Ranch Fences in Conroe, TX"
 description: Woven field wire, no-climb mesh, barbed wire, pipe, and board fencing for acreage around Conroe and Huntsville. Call 76 Fence of Conroe at (713) 331-9419.
 permalink: /materials/farm-ranch/
 crumb: { title: "Materials", url: "/materials/" }
@@ -17,7 +17,7 @@ faqs:
     a: "Walk it after every big storm and at least once or twice a year. Look for limbs on the wire, loose staples or clips, and posts that have moved."
 ---
 
-{% include page-hero.html kicker="Materials · Farm &amp; Ranch" title="Farm &amp; Ranch Fence Materials" lede="Wire, pipe, and board fencing for pasture, livestock, and long property lines north and east of Conroe." image="/assets/images/fences/ranch-black-board.jpg" alt="New black four-board ranch fence across a pasture with horses" %}
+{% include page-hero.html kicker="Materials · Farm &amp; Ranch" title="Farm &amp; Ranch Fences in Conroe, TX" lede="Wire, pipe, and board fencing for pasture, livestock, and long property lines north and east of Conroe." image="/assets/images/fences/ranch-black-board.jpg" alt="New black four-board ranch fence across a pasture with horses" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

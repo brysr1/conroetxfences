@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aluminum Fences | Conroe & Lake Conroe
+title: "Aluminum Fences in Conroe, TX"
 description: Rust-proof ornamental aluminum fences for Conroe pools, lake and canal lots, golf frontage, and front yards. Call (713) 331-9419.
 permalink: /materials/aluminum/
 crumb: { title: "Materials", url: "/materials/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Yes, with care. Land up to the 201-foot contour around Lake Conroe belongs to the San Jacinto River Authority, and permanent structures there need an SJRA permit. We confirm where your property line falls before setting posts near the shore."
 ---
 
-{% include page-hero.html kicker="Materials · Ornamental Metal" title="Aluminum" lede="Black picket fencing that can't rust, for pools, lake and canal lots, and golf frontage, with the view left open." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence along a lakefront lawn under pine trees" %}
+{% include page-hero.html kicker="Materials · Ornamental Metal" title="Aluminum Fences in Conroe, TX" lede="Black picket fencing that can't rust, for pools, lake and canal lots, and golf frontage, with the view left open." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence along a lakefront lawn under pine trees" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

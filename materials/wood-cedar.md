@@ -15,7 +15,7 @@ faqs:
     a: "Many community associations review fence color along with height and style. We don't guess at those rules. We check the current guidelines for your lot and include the stain details in your submittal."
 ---
 
-{% include page-hero.html kicker="Materials · Wood &amp; Cedar" title="Wood &amp; Cedar Fences" lede="The backyard fence most Conroe homeowners grow up with, built to last in heavy clay, Gulf humidity, and long summers." image="1593285247650-cd7bb44adcfd" alt="Close view of new natural wood fence boards with grass at the base" %}
+{% include page-hero.html kicker="Materials · Wood &amp; Cedar" title="Wood &amp; Cedar Fences in Conroe, TX" lede="The backyard fence most Conroe homeowners grow up with, built to last in heavy clay, Gulf humidity, and long summers." image="1593285247650-cd7bb44adcfd" alt="Close view of new natural wood fence boards with grass at the base" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

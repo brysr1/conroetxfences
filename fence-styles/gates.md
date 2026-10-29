@@ -17,7 +17,7 @@ faqs:
     a: "Yes. New posts settle a little in the first months. Call us and we'll come back and adjust it."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Gates" title="Gates &amp; Gate Openers" lede="Walk gates, drive gates, and automatic openers built for daily use, from side yards to ranch entrances." image="/assets/images/fences/drive-gate-cedar.jpg" alt="New cedar double drive gate in a black steel frame" %}
+{% include page-hero.html kicker="Fence Styles · Gates" title="Walk Gates, Drive Gates &amp; Openers in Conroe, TX" lede="Walk gates, drive gates, and automatic openers built for daily use, from side yards to ranch entrances." image="/assets/images/fences/drive-gate-cedar.jpg" alt="New cedar double drive gate in a black steel frame" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

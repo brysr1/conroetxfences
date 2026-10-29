@@ -13,7 +13,7 @@ faqs:
     a: "The boards can act like ladder rungs, especially with gaps. If that's a concern with kids or a pool, we can use tighter spacing or keep the horizontal design to areas where climbing doesn't matter."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Horizontal &amp; Modern" title="Horizontal &amp; Modern Fences" lede="Long, level boards that give a newer home or an outdoor kitchen a clean, finished edge." image="1759502141256-45d54807853b" alt="Modern horizontal slat fence topped by a row of evergreen hedges" %}
+{% include page-hero.html kicker="Fence Styles · Horizontal &amp; Modern" title="Horizontal &amp; Modern Fences in Conroe, TX" lede="Long, level boards that give a newer home or an outdoor kitchen a clean, finished edge." image="1759502141256-45d54807853b" alt="Modern horizontal slat fence topped by a row of evergreen hedges" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

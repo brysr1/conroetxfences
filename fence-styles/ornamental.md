@@ -13,7 +13,7 @@ faqs:
     a: "Yes. Panels can be racked to follow a gentle grade or stepped on steeper ground. Sloped lake and golf lots are common around here."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Ornamental" title="Ornamental Fences" lede="Slim metal pickets that frame a house, lake, or fairway instead of hiding it." image="1746311529146-b22d1e4524d7" alt="Two-story house behind a black ornamental metal fence" %}
+{% include page-hero.html kicker="Fence Styles · Ornamental" title="Ornamental Fences in Conroe &amp; Lake Conroe, TX" lede="Slim metal pickets that frame a house, lake, or fairway instead of hiding it." image="1746311529146-b22d1e4524d7" alt="Two-story house behind a black ornamental metal fence" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

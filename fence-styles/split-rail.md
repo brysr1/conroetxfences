@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Split Rail & Board Fences | Conroe & Huntsville Acreage
+title: "Split Rail & Board Fences in Conroe, TX"
 description: Split rail and post-and-rail fences for acreage frontage, driveways, and pastures north and east of Conroe. Call 76 Fence of Conroe at (713) 331-9419.
 permalink: /fence-styles/split-rail/
 crumb: { title: "Fence Styles", url: "/fence-styles/" }
@@ -13,7 +13,7 @@ faqs:
     a: "It depends on the wood, ground contact, and upkeep. Posts in wet ground fail first. A sealer on the rails and posts set for the soil add years, and vinyl rail skips the sealing altogether."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Split Rail" title="Split Rail &amp; Post-and-Rail Fences" lede="Open rail fencing that marks the line and gives acreage a ranch look without blocking the land." image="/assets/images/fences/split-rail-pines.jpg" alt="New wooden rail fence across a pine-shaded country lawn" %}
+{% include page-hero.html kicker="Fence Styles · Split Rail" title="Split Rail &amp; Board Fences in Conroe, TX" lede="Open rail fencing that marks the line and gives acreage a ranch look without blocking the land." image="/assets/images/fences/split-rail-pines.jpg" alt="New wooden rail fence across a pine-shaded country lawn" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">

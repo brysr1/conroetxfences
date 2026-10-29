@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pool Fences in Conroe, TX | Pool Enclosure Fencing
+title: "Pool Enclosure Fences in Conroe, TX"
 description: Pool enclosure fences for Conroe and Lake Conroe homes, with self-closing, self-latching gates and rust-free aluminum. Call (713) 331-9419.
 permalink: /fence-styles/pool-enclosure/
 crumb: { title: "Fence Styles", url: "/fence-styles/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Splash, pool chemicals, and humid air will rust exposed steel over time. Aluminum doesn't rust, and the open pickets let you see the pool from the house."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Pool Enclosure" title="Pool Enclosure Fences" lede="A barrier around the water with gates that close and latch every time, built so you can still see the pool from the house." image="1623298371642-416fcc1286d0" alt="Pool beside a modern home with black metal pool fencing" %}
+{% include page-hero.html kicker="Fence Styles · Pool Enclosure" title="Pool Enclosure Fences in Conroe, TX" lede="A barrier around the water with gates that close and latch every time, built so you can still see the pool from the house." image="1623298371642-416fcc1286d0" alt="Pool beside a modern home with black metal pool fencing" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

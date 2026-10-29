@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chain Link Fences in Conroe, TX | Galvanized & Coated
+title: "Chain Link Fences in Conroe, TX"
 description: Galvanized and black vinyl-coated chain link for Conroe homes, rural lots, and businesses, with upkeep and cost notes. Call (713) 331-9419.
 permalink: /materials/chain-link/
 crumb: { title: "Materials", url: "/materials/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Some limit it, especially where it faces a street. We check the current rules for your property before quoting and suggest a coated or alternative option if bare galvanized isn't allowed."
 ---
 
-{% include page-hero.html kicker="Materials · Chain Link" title="Chain Link Fences" lede="The low-cost, low-fuss fence for dog runs, back lines, rural lots, and commercial yards around Conroe." image="/assets/images/fences/chain-link-galvanized.jpg" alt="New galvanized chain link fence around a green backyard" %}
+{% include page-hero.html kicker="Materials · Chain Link" title="Chain Link Fences in Conroe, TX" lede="The low-cost, low-fuss fence for dog runs, back lines, rural lots, and commercial yards around Conroe." image="/assets/images/fences/chain-link-galvanized.jpg" alt="New galvanized chain link fence around a green backyard" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

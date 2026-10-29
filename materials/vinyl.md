@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vinyl Fences in Conroe, TX | Privacy, Picket & Rail
+title: "Vinyl Fences in Conroe, TX"
 description: Vinyl privacy, picket, and rail fences for Conroe-area homes, with pros, trade-offs, and humid-climate care. Call 76 Fence of Conroe at (713) 331-9419.
 permalink: /materials/vinyl/
 crumb: { title: "Materials", url: "/materials/" }
@@ -15,7 +15,7 @@ faqs:
     a: "It depends on the community. Some associations allow vinyl and others call for wood or metal in certain locations. We look up the current guidelines for your address before we quote."
 ---
 
-{% include page-hero.html kicker="Materials · Vinyl" title="Vinyl Fences" lede="A fence you rinse instead of stain, in privacy, picket, and rail styles for Conroe homes and small acreage." image="1610935608580-3c5031e0ae9d" alt="White vinyl picket fence with post caps along a sidewalk" %}
+{% include page-hero.html kicker="Materials · Vinyl" title="Vinyl Fences in Conroe, TX" lede="A fence you rinse instead of stain, in privacy, picket, and rail styles for Conroe homes and small acreage." image="1610935608580-3c5031e0ae9d" alt="White vinyl picket fence with post caps along a sidewalk" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

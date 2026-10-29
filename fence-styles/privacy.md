@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Fences in Conroe, TX | Wood, Vinyl & Composite
+title: "Privacy Fences in Conroe, TX"
 description: Six- and eight-foot privacy fences for Conroe backyards in wood, vinyl, and composite, with build styles and HOA notes. Call (713) 331-9419.
 permalink: /fence-styles/privacy/
 crumb: { title: "Fence Styles", url: "/fence-styles/" }
@@ -15,7 +15,7 @@ faqs:
     a: "Many communities expect the finished side to face the street or common area. Shadowbox and board-on-board look good from both sides, which helps on shared lines."
 ---
 
-{% include page-hero.html kicker="Fence Styles · Privacy" title="Privacy Fences" lede="Solid, full-height fencing that turns a new-construction backyard into a private one." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence enclosing the backyard of a two-story home" %}
+{% include page-hero.html kicker="Fence Styles · Privacy" title="Privacy Fences in Conroe, TX" lede="Solid, full-height fencing that turns a new-construction backyard into a private one." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence enclosing the backyard of a two-story home" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-prose">
