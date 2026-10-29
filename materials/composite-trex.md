@@ -6,7 +6,7 @@ permalink: /materials/composite-trex/
 crumb: { title: "Materials", url: "/materials/" }
 faqs:
   - q: "What is composite fencing made of?"
-    a: "A blend of wood fiber and plastic pressed into boards with a wood-grain surface. Trex is the name most people recognize, and several other manufacturers make similar systems."
+    a: "A blend of wood fiber and plastic resin pressed into boards with a wood-grain surface. Trex is the name most people recognize, and several other manufacturers make similar systems."
   - q: "Does composite fade?"
     a: "Most boards lighten a little during the first months in full sun, then settle into their long-term color. Darker colors also get warm to the touch in midsummer."
   - q: "Why does composite cost more than wood?"
@@ -21,8 +21,8 @@ faqs:
   <div class="lc-wrap lc-split">
     <div>
       <p class="lc-kicker">What it is</p>
-      <h2>Wood character, plastic durability</h2>
-      <p>Composite boards blend recycled wood fiber with plastic, then get a textured face that reads as wood grain from a few feet away. Brand-name systems like Trex are the familiar ones. The colors run from warm browns to modern grays.</p>
+      <h2>Wood character, low upkeep</h2>
+      <p>Composite boards blend recycled wood fiber with plastic resin, then get a textured face that reads as wood grain from a few feet away. Brand-name systems like Trex are the familiar ones. The colors run from warm browns to modern grays.</p>
       <p>Because the boards are solid and straight, composite works well for full-privacy fences and for the horizontal designs that are popular on newer homes. It is a premium material, priced near the top of the range alongside ornamental metal.</p>
       <p>It suits people who plan to stay put. Once it&rsquo;s up, you won&rsquo;t spend weekends staining it.</p>
     </div>

@@ -29,7 +29,7 @@ faqs:
 <p>The answer depends less on the material than on the lot. A shaded yard under pines and a sunny yard on a brand-new street ask very different things of a fence.</p>
 
 <h2>What you are comparing</h2>
-<p>Wood here usually means cedar pickets or pressure-treated pine on wood or galvanized steel posts. Composite boards blend wood fiber and plastic and are pressed with a grain pattern on the face, so they pass for wood at a glance. Trex is the name most people know. The boards are heavier than wood, so composite fences are typically built on steel posts or an aluminum frame.</p>
+<p>Wood here usually means cedar pickets or pressure-treated pine on wood or galvanized steel posts. Composite boards blend wood fiber and plastic resin and are pressed with a grain pattern on the face, so they pass for wood at a glance. Trex is the name most people know. The boards are heavier than wood, so composite fences are typically built on steel posts or an aluminum frame.</p>
 <table>
 <thead><tr><th>Factor</th><th>Wood (cedar or pine)</th><th>Composite</th></tr></thead>
 <tbody>
