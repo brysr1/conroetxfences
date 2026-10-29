@@ -8,8 +8,8 @@ faqs:
     a: "Six to eight feet covers most commercial perimeters, and some sites go taller. Height should follow what's behind the fence, what the site can see from the road, and the rules for your parcel. We confirm those before we recommend a spec."
   - q: "Can you add barbed wire or razor wire?"
     a: "We can add barbed-wire arms or other anti-climb tops where the site and its rules allow. On parcels inside Conroe city limits or under property-owner restrictions, we check what is permitted first."
-  - q: "Can the gates use keypads or card readers?"
-    a: "Yes. We build swing and slide gates that are ready for operators and keypad, card, remote, or call-box entry, and we coordinate with your access-control installer if you have one."
+  - q: "Can the gates use keypads or remotes?"
+    a: "Yes. We build swing and slide gates that are ready for operators and keypad, remote, or phone-app entry, and we coordinate with your access-control installer if you have one."
   - q: "Do you build security fencing for homes or acreage?"
     a: "Yes. Taller fence lines, solid panels, and locking gates work well around equipment barns, shops, and rural properties. For pools, see [pool enclosures](/fence-styles/pool-enclosure/), which have their own requirements."
 ---
@@ -95,7 +95,7 @@ faqs:
     </div>
     <ul class="lc-checks lc-checks--one">
       <li><strong>Gate type.</strong> Swing gates for standard openings. Slide or cantilever gates for wide openings and tight drives where there&rsquo;s no room for a swing.</li>
-      <li><strong>Access control.</strong> Keypads, card readers, remotes, or a call box. We coordinate with your access-control or camera installer if you have one.</li>
+      <li><strong>Access control.</strong> Keypads, remotes, or phone-based entry. We coordinate with your access-control or camera installer if you have one.</li>
       <li><strong>Openers.</strong> Solar where there&rsquo;s no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</li>
       <li><strong>Safety sensors.</strong> Sensors stop or reverse the gate if a person or vehicle is in the way.</li>
       <li><strong>Emergency access.</strong> Fire department access is planned on gated sites.</li>

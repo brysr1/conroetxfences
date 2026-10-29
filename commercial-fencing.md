@@ -9,7 +9,7 @@ faqs:
   - q: "Can you work around our business hours?"
     a: "Yes. We plan the build so customers can still get in, deliveries can still reach the dock, and the property is closed back up at the end of each day."
   - q: "Do you install automatic gates?"
-    a: "We build swing and cantilever slide gates sized for trucks and trailers, and we can set them up for an operator, with entry by keypad, card reader, remote, or call box. See our [gates page](/fence-styles/gates/) for options."
+    a: "We build swing and cantilever slide gates sized for trucks and trailers, and we can set them up for an operator, with entry by keypad, remote, or phone app. See our [gates page](/fence-styles/gates/) for options."
   - q: "Do you fence construction sites?"
     a: "Yes. We work with builders and general contractors on perimeter fencing for active sites, plus the permanent fencing and enclosures that go in once the building is done."
 ---
@@ -57,7 +57,7 @@ faqs:
       <a class="lc-tile" href="{{ '/security-fencing/' | relative_url }}"><h3>Security fencing</h3><p>Tall chain link, welded mesh, and ornamental steel with anti-climb tops for sites that need to stay closed after hours.</p><span class="lc-more">Security fencing</span></a>
       <a class="lc-tile" href="{{ '/materials/chain-link/' | relative_url }}"><h3>Perimeter fencing</h3><p>Clear property lines for offices, churches, storage lots, and small industrial parcels, often in commercial-grade chain link.</p><span class="lc-more">Chain link</span></a>
       <a class="lc-tile" href="{{ '/dumpster-enclosures/' | relative_url }}"><h3>Dumpster enclosures</h3><p>Screened enclosures for trash, recycling, and grease bins, with an opening the collection truck can use.</p><span class="lc-more">Enclosures</span></a>
-      <a class="lc-tile" href="{{ '/fence-styles/gates/' | relative_url }}"><h3>Gates &amp; access</h3><p>Swing and cantilever gates for trucks and trailers, prepped for operators, keypads, and card readers.</p><span class="lc-more">Gates</span></a>
+      <a class="lc-tile" href="{{ '/fence-styles/gates/' | relative_url }}"><h3>Gates &amp; access</h3><p>Swing and cantilever gates for trucks and trailers, prepped for operators and keypads.</p><span class="lc-more">Gates</span></a>
       <a class="lc-tile" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}"><h3>Storefront &amp; office fencing</h3><p>Ornamental steel or aluminum that defines a property without hiding the building or its signs.</p><span class="lc-more">Ornamental metal</span></a>
       <a class="lc-tile" href="{{ '/hoa-fencing/' | relative_url }}"><h3>Community &amp; amenity fencing</h3><p>Pool fences, amenity-center fencing, and screen walls for HOAs and apartment communities.</p><span class="lc-more">HOA fencing</span></a>
     </div>

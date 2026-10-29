@@ -51,7 +51,7 @@ faqs:
 
 <h2>Gates and access control</h2>
 <p>Automatic gates at commercial and public sites fall under UL 325 Class II. That brings the same monitored entrapment protection a home gate needs, built for heavier traffic. Decide how many vehicle entrances you really need, since one controlled entrance is easier to secure than three. Plan a separate pedestrian gate, fire department and emergency access, and how deliveries get in after hours.</p>
-<p>If an access-control company is installing card readers or a call box, we plan pads, conduit paths, and post locations with them, so nothing has to be cut out later.</p>
+<p>If an access-control or camera company is working at the gate, we plan pads, conduit paths, and post locations with them, so nothing has to be cut out later.</p>
 
 <h2>Scheduling around a business that stays open</h2>
 <p>Most commercial clients can't close the lot while we work. We phase the job so customers can still park, trucks can still get to the loading area, and the lot is secure again before the crew leaves each evening. On a replacement, the old fence comes out in sections so the perimeter isn't left open overnight.</p>
