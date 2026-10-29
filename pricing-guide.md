@@ -18,7 +18,7 @@ permalink: /pricing-guide/
       <table class="lc-table">
         <thead><tr><th>Material</th><th>Where it fits</th><th>Typical installed range, per linear foot</th></tr></thead>
         <tbody>
-          <tr><td><a href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></td><td>Dog runs, side yards, commercial lots</td><td>$15&ndash;$40</td></tr>
+          <tr><td><a href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></td><td>Dog runs, side yards, commercial lots</td><td>$18&ndash;$40</td></tr>
           <tr><td>Pressure-treated pine</td><td>Budget privacy fences</td><td>$25&ndash;$35</td></tr>
           <tr><td><a href="{{ '/materials/wood-cedar/' | relative_url }}">Cedar</a></td><td>Backyard privacy, stained to match</td><td>$30&ndash;$47</td></tr>
           <tr><td><a href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></td><td>Low-upkeep privacy and rail</td><td>$25&ndash;$70 (3-rail starts around $25&ndash;$30; privacy panels start around $50)</td></tr>
