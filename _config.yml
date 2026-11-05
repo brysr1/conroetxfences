@@ -17,7 +17,7 @@ business:
   form_action: https://formspree.io/f/maeqqoog
 
 # Add a GA4 measurement ID (G-XXXXXXX) and Search Console code when they exist
-google_analytics:
+google_analytics: G-28T3YJN1K4
 google_site_verification: "phsUJm9fJbtdrGgbjIzLw01CjvSqmLI-8fejXY30Zao"
 
 plugins:
