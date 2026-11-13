@@ -10,8 +10,8 @@ headline: "Chain Link vs. Wood Fence: Which One Fits Your Conroe Lot?"
 lede: "Chain link costs less per foot and asks almost nothing of you. Wood buys privacy and a finished look. Here is how the two compare around Conroe, and where a mix of both makes the most sense."
 date: 2026-11-13
 read: 4
-image: /assets/images/fences/chain-link-vs-wood-fence.png
-alt: "Backyard lawn between two brick homes with a new wood privacy fence on one side and a dark black metal fence across the back and other side, tall pines at sunset behind, the kind of Conroe yard where chain link vs. wood comes up"
+image: /assets/images/fences/chain-link-black.jpg
+alt: "New black vinyl-coated chain link fence and walk gate across a shaded lawn, with wood privacy fences on the lots behind it, a side-by-side look at chain link vs. wood"
 related:
   - /materials/chain-link/
   - /materials/wood-cedar/
