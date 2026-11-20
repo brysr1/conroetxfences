@@ -18,11 +18,11 @@ related:
   - /resources/wood-fence-upgrades/
 faqs:
   - q: "Can I flip an existing fence so the good side faces my yard?"
-    a: "Not really. Flipping means pulling every picket and refastening it on the other side of the rails, which costs close to new labor and often splits older boards. If you want a nicer view from your side, adding a second layer to make it board-on-board is usually the better route."
+    a: "Not really. Flipping means pulling every picket and refastening it on the other side of the rails, which costs close to new labor and often splits older boards. If you want a nicer view from your side, it is usually better to plan for shadowbox, which is finished on both faces, when the fence is due for replacement."
   - q: "My neighbor's fence has the rails facing me. Can I ask them to change it?"
     a: "You can ask, but it's their fence. If the community has a rule on which side faces out, the HOA or management company is the place to raise it. If not, a friendly talk, or sharing the cost of a second layer, tends to work better than a complaint."
   - q: "Do you charge more to put the good side facing out?"
-    a: "No. The materials and labor are the same either way on a side-by-side fence. Styles finished on both sides, like board-on-board and shadowbox, cost more because they use more lumber, not because of which way they face."
+    a: "No. The materials and labor are the same either way on a side-by-side fence. Board-on-board and shadowbox cost more because they use more lumber, not because of which way they face."
 ---
 {% include article-top.html %}
 <p>"Which side of the fence faces out?" comes up at almost every estimate we do in Conroe, Willis, and Montgomery, usually right after someone notices the rails on a neighbor's fence staring into their yard. The short answer: on most fences around here, the finished side faces out toward the street or the neighbor, and the posts and rails face in. But that is a custom and often an HOA rule, not a law of physics, and a few things can change it.</p>
@@ -33,7 +33,7 @@ faqs:
 <li><strong>The finished side.</strong> A flat, even wall of pickets. This is the side people mean when they say "the good side."</li>
 <li><strong>The frame side.</strong> Posts, two or three rails, and the backs of the pickets. It looks fine, but it is clearly the back.</li>
 </ul>
-<p>Some styles don't have a back. Board-on-board and shadowbox put boards on both faces of the rails, so each side looks close to finished. Our <a href="/resources/board-on-board-vs-shadowbox-fence/">board-on-board vs. shadowbox guide</a> compares the two.</p>
+<p>Board-on-board doesn't change this. Its pickets overlap in two rows for a tighter wall, but on a typical build both rows go on the same face of the rails, so it still has a finished side and a frame side. Shadowbox is the style without a back: boards alternate on both faces of the rails, so each side looks close to finished. Our <a href="/resources/board-on-board-vs-shadowbox-fence/">board-on-board vs. shadowbox guide</a> compares the two.</p>
 
 <h2>Is there a rule for which side of the fence faces out?</h2>
 <p>Texas has no general state rule on which way a fence faces. The rules that matter come from closer to home:</p>
@@ -54,14 +54,14 @@ faqs:
 <p>There is one case where you might want the rails out: a dog that likes to climb. Rails on the inside give some dogs a foothold, so on those yards we talk through a taller fence or a style finished on both faces.</p>
 
 <h2>Shared fences between neighbors</h2>
-<p>On a line two households share, which side faces out is part of a bigger conversation about who pays, who maintains it, and what it looks like. If you are splitting the cost, a style finished on both faces, like board-on-board or shadowbox, solves the question for both of you. If one neighbor is paying, the usual courtesy still applies, but it is worth talking before the crew arrives. Our answer on <a href="/faq/property-line-fence-cost/">who pays for a property line fence</a> covers the Texas basics.</p>
+<p>On a line two households share, which side faces out is part of a bigger conversation about who pays, who maintains it, and what it looks like. If you are splitting the cost, a shadowbox fence, finished on both faces, solves the question for both of you. If one neighbor is paying, the usual courtesy still applies, but it is worth talking before the crew arrives. Our answer on <a href="/faq/property-line-fence-cost/">who pays for a property line fence</a> covers the Texas basics.</p>
 <p>Where a new fence ties into an existing one, we match the height and which way the pickets face, so the run doesn't change direction halfway down the line.</p>
 
 <h2>Staining and upkeep when the good side faces away</h2>
 <p>If the finished side faces the neighbor, that is also the side taking most of the weather, and you will need to reach it to wash and stain. On a shared line, ask your neighbor before a stain crew walks their yard. On a side yard, a gate at each end makes the outside face easy to get to.</p>
 
 <h2>Getting a good side on both sides</h2>
-<p>If you'd rather not choose, a few options give both yards a clean view. Board-on-board and shadowbox finish both faces. A cap and trim board dresses up the top on either side. Galvanized steel posts tucked behind the pickets also hide well and won't rot at the ground line.</p>
+<p>If you'd rather not choose, a few options give both yards a cleaner view. Shadowbox finishes both faces. A cap and trim board dresses up the top on either side. Galvanized steel posts tucked behind the pickets also hide well and won't rot at the ground line.</p>
 
 <p>Not sure which way your new fence should face? We will check your HOA guidelines, walk the line with you, and put the style and orientation in a written quote. Call or text (713) 331-9419, or <a href="https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=conroetxfences&utm_medium=website&utm_campaign=site_booking" rel="noopener">book a free estimate online</a>.</p>
 {% include article-end.html %}
