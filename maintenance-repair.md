@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Repair & Maintenance in Conroe, TX | Storm Damage
+title: "Fence Repair & Maintenance in Conroe, TX"
 description: Storm damage, leaning posts, rot, and sagging gates fixed around Conroe, or a plain answer when replacing costs less. Call (713) 331-9419.
 permalink: /maintenance-repair/
 faqs:
@@ -14,7 +14,7 @@ faqs:
     a: "Yes. Most sagging gates need a stronger frame, a diagonal brace, better hinges, or a reset post. We fix the cause, not only the latch."
 ---
 
-{% include page-hero.html kicker="Services · Repair" title="Fence Repair &amp; Maintenance" lede="We fix what is worth fixing, replace what isn&rsquo;t, and tell you which is which." image="1620635295109-172b6677cba3" alt="Weathered gray fence boards, some set at an angle" %}
+{% include page-hero.html kicker="Services · Repair" title="Fence Repair &amp; Maintenance in Conroe" lede="For fence repair in Conroe, we fix what is worth fixing, replace what isn&rsquo;t, and tell you which is which." image="1620635295109-172b6677cba3" alt="Weathered gray fence boards, some set at an angle" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split lc-split--wide-text">

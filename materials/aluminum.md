@@ -17,6 +17,13 @@ faqs:
 
 {% include page-hero.html kicker="Materials · Ornamental Metal" title="Aluminum Fences in Conroe, TX" lede="Black picket fencing that can't rust, for pools, lake and canal lots, and golf frontage, with the view left open." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence along a lakefront lawn under pine trees" %}
 
+<section class="lc-section lc-section--tight">
+  <div class="lc-wrap lc-prose">
+    <h2>Aluminum fence installation in Conroe</h2>
+    <p>We install powder-coated aluminum fences on pool, lakefront and front-yard lots around Conroe. Aluminum won't rust, so it holds up near Lake Conroe and in our humid summers with no painting.</p>
+  </div>
+</section>
+
 <section class="lc-section">
   <div class="lc-wrap lc-split">
     <figure class="lc-split-media">{% include photo.html src="/assets/images/fences/ornamental-lake-lawn.jpg" alt="Black aluminum ornamental fence with an arched gate along a pond lined with pine trees" w=1000 %}</figure>

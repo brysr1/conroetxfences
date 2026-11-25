@@ -64,6 +64,33 @@ faqs:
   </div>
 </section>
 
+<section class="lc-section lc-section--sand">
+  <div class="lc-wrap lc-prose">
+    <p class="lc-kicker">Screening</p>
+    <h2>Commercial wood fencing</h2>
+    <p>Wood is the right call when the job is screening, not security. Behind a restaurant kitchen, around a dumpster pad, or along the back of a shop that faces a side street or a neighboring lot, a solid wood fence hides the service area and sits quietly next to brick or siding.</p>
+    <p>We build it in western red cedar or pressure-treated pine. Board-on-board stays solid even after a dry summer, so it is our usual pick for a full screen. Shadowbox lets air pass and gives both sides a finished face. Where carts, cars, or containers will bump the fence, we suggest steel posts or a steel-frame <a href="{{ '/dumpster-enclosures/' | relative_url }}">enclosure</a>, because steel takes those hits better than wood. For a site that has to stay closed after hours, chain link or ornamental steel does that job better. See <a href="{{ '/materials/wood-cedar/' | relative_url }}">wood &amp; cedar</a>.</p>
+  </div>
+</section>
+
+<section class="lc-section">
+  <div class="lc-wrap lc-prose">
+    <p class="lc-kicker">Property types</p>
+    <h2>Where commercial fences are used</h2>
+    <p>Most of our commercial work falls into a few groups. Contractor&rsquo;s yards, equipment yards, storage lots, and service shops off SH 105 and FM 1314 need a secure perimeter and gates that trucks use every day. Restaurants, shops, and offices along I-45 and Loop 336 need clean lines from the road and a screened service area out back.</p>
+    <p>Churches, schools, and small industrial parcels usually want a clear property line. Apartment communities and HOA amenity centers need pool fences, amenity fencing, and dumpster screening the board will approve. On job sites, we work with builders and general contractors on perimeter fencing while the building goes up, then install the permanent fence and enclosures before it opens. See <a href="{{ '/security-fencing/' | relative_url }}">security fencing</a> for sites that need to stay locked.</p>
+  </div>
+</section>
+
+<section class="lc-section lc-section--navy">
+  <div class="lc-wrap lc-prose">
+    <p class="lc-kicker lc-kicker--light">Permits</p>
+    <h2>Getting a commercial fence approved in Conroe</h2>
+    <p>The first question is who reviews the fence, and the mailing address won&rsquo;t answer it. A parcel inside Conroe city limits goes through the city&rsquo;s <a href="https://www.cityofconroe.org/services/building_inspections_permits/index.php" rel="noopener">Building Inspections and Permits department</a> (936-522-3610), which takes permit applications and inspection requests through its OpenGov portal. The city&rsquo;s fence rules are in Chapter 14, Article XI of its code.</p>
+    <p>In unincorporated Montgomery County, the county&rsquo;s <a href="https://cms1files.revize.com/montgomerycountytx/Development%20Regulations%20-%20Adopted%203-4-2025%20(incorporating%20amendments%2010-8-2026).pdf" rel="noopener">Development Regulations</a> list &ldquo;installation of fences&rdquo; as development, and development in the floodplain goes through the county&rsquo;s <a href="https://www.mctx.org/departments/departments_d_-_f/floodplain_administration_2/index.php" rel="noopener">Floodplain Administration</a>. A powered drive gate inside Conroe can also need an electrical permit pulled by a state-licensed electrician registered with the city. The approved site plan and any property-owner rules can add limits of their own. We check all of it for your parcel before the quote goes out. See our <a href="{{ '/faq/fence-permits-conroe-area/' | relative_url }}">permit guide</a>.</p>
+  </div>
+</section>
+
 <section class="lc-section lc-section--sky">
   <div class="lc-wrap lc-split lc-split--top">
     <div>
