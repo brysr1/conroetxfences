@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Residential Fence Installation in Conroe, Texas
+title: "Residential Fence Installation in Conroe, TX"
 description: Privacy, picket, pool, and pet fences for Conroe homes, from new builder lots to wooded acre lots and lake homes. Free written estimates at (713) 331-9419.
 permalink: /residential-fencing/
 faqs:
@@ -12,16 +12,18 @@ faqs:
     a: "Most backyard fences on a standard subdivision lot are built in a few days once approvals and 811 locates are done. Long runs, steep grade, heavy tree cover, or several gates add time, and we give you a realistic schedule with the quote."
   - q: "Can you fence a yard that backs up to a pond, greenbelt, or the lake?"
     a: "Yes, though these lots often have extra limits. Communities usually want open fencing along water and greenbelts, and on Lake Conroe the land up to the 201-ft contour belongs to the San Jacinto River Authority, which requires a permit for permanent structures. We sort out where the fence can go before we set a post."
+  - q: "What should I look for in a residential fence company?"
+    a: "Ask for current general liability and workers' comp certificates, and make sure the crew calls Texas 811 to mark buried lines before anyone digs. In a deed-restricted community, the company should prepare the HOA paperwork and wait for approval before building. Get the warranty in writing; ours is an 18-month limited workmanship warranty."
 ---
 
-{% include page-hero.html kicker="Services · Residential" title="Residential Fencing in Conroe" lede="Privacy, picket, pool, and pet fences for homes across Conroe, from new builder lots off Loop 336 to wooded acre lots and lake homes." image="1765129049887-bae454eecc92" alt="Wood privacy fence across a backyard lawn lined with evergreen trees" %}
+{% include page-hero.html kicker="Services · Residential" title="Residential Fence Installation in Conroe" lede="Privacy, picket, pool, and pet fences for homes across Conroe, from new builder lots off Loop 336 to wooded acre lots and lake homes." image="1765129049887-bae454eecc92" alt="Wood privacy fence across a backyard lawn lined with evergreen trees" %}
 
 <section class="lc-section">
   <div class="lc-wrap lc-split">
     <div>
       <p class="lc-kicker">Fences for homes</p>
       <h2>Start with how you use the yard</h2>
-      <p>Some people call because the dog found a gap under the builder fence. Others are putting in a pool, want to block the view of a new two-story next door, or just bought a house with a fence that leans toward the neighbor. Each problem points to a different fence, so we ask a few questions before we suggest a material.</p>
+      <p>Some people call because the dog found a gap under the builder fence. Others are putting in a pool, want to block the view of a new two-story next door, or just bought a house with a fence that leans toward the neighbor. Each problem points to a different residential fence, so we ask a few questions before we suggest a material.</p>
       <p>Then we walk the line. We note where the ground drops, which trees have roots near the posts, where the mower and trash bins need to pass, and whether the lot backs to a pond, greenbelt, or the lake. That walk is what the written quote is built from.</p>
       <p>If your home is in a deed-restricted community, we also find out who reviews fences there and what they will want to see, so the fence you choose can be approved and built.</p>
     </div>

@@ -28,6 +28,14 @@ faqs:
   </div>
 </section>
 
+<section class="lc-section lc-section--tight lc-section--sand">
+  <div class="lc-wrap lc-prose">
+    <h2>Chain link fence installation in Conroe</h2>
+    <p>Most of the chain link we put in around Conroe goes on dog runs, back and side property lines, garden and chicken enclosures, rural half-acre and acre lots, and equipment yards behind shops. Every job starts with a Texas 811 request so buried lines are marked before we dig.</p>
+    <p>Corner, end, and gate posts carry the tension for the whole run, so they get the deepest footings. Between them, round line posts and a top rail hold the woven steel mesh, which is stretched tight and held with tension bands. You choose bright galvanized wire or black or green vinyl-coated mesh with matching posts. Commercial lots get heavier wire, thicker posts, and taller heights. For diggers we add a bottom tension wire, and slats can be woven in later if you want more privacy.</p>
+  </div>
+</section>
+
 <section class="lc-section lc-section--sky">
   <div class="lc-wrap">
     <div class="lc-head">

@@ -9,7 +9,7 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
     <div>
       <h1>Fence Company in Conroe, TX</h1>
       <p class="lc-hero-sub">Fences built for <em>Conroe</em> and the Lake Conroe life.</p>
-      <p class="lc-hero-lede">New fences, gates, and repairs for homes, lake lots, acreage, and businesses, from new subdivisions off Loop 336 to waterfront lots on the east shore and ranch land up toward Huntsville.</p>
+      <p class="lc-hero-lede">New fences, gates, and repairs for homes, lake lots, acreage, and businesses, from a Conroe fence company that plans around local ground and local rules. We cover in-town Conroe lots, Lake Conroe waterfront and acreage north toward Willis.</p>
       <div class="lc-btns">
         <a class="lc-btn lc-btn--sun" href="{{ site.business.book_url }}">Book a Free Estimate</a>
       </div>
@@ -30,7 +30,7 @@ description: Fence installation, gates, and repair in Conroe, Willis, and around
     <div class="lc-head">
       <p class="lc-kicker">What we build</p>
       <h2>One crew for every kind of property around Conroe</h2>
-      <p class="lc-lede">A zero-lot-line backyard in a master-planned community, a canal-front lot with a bulkhead, and five wooded acres with horses all need a different fence. We plan each one around the lot, the rules that apply to it, and how you use it.</p>
+      <p class="lc-lede">A zero-lot-line backyard in a master-planned community, a canal-front lot with a bulkhead, and five wooded acres with horses all need a different fence. As your fencing company, we plan each one around the lot, the rules that apply to it, and how you use it.</p>
     </div>
     <div class="lc-grid lc-grid-3 lc-tiles">
       <a class="lc-tile" href="{{ '/residential-fencing/' | relative_url }}"><h3>Home fencing</h3><p>Backyard privacy, front-yard picket, pool barriers, and dog-proof runs, plus replacements for builder fences that have started to lean.</p><span class="lc-more">Residential</span></a>
