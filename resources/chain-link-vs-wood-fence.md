@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chain Link vs. Wood Fence in Conroe | 76 Fence of Conroe"
+title: "Chain Link vs. Wood Fence in Conroe"
 description: "Chain link vs. wood fence for a Conroe, Willis, or Montgomery lot: installed cost, privacy, lifespan, upkeep, wind, HOA rules, and how each holds in sand."
 permalink: /resources/chain-link-vs-wood-fence/
 kind: article

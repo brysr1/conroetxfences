@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "6 ft vs. 8 ft Privacy Fence in Conroe | 76 Fence of Conroe"
+title: "6 ft vs. 8 ft Privacy Fence in Conroe"
 description: "6 ft vs. 8 ft privacy fence for a Conroe, Willis, or Montgomery yard: privacy, cost, wind load, post depth in sandy ground, and height rules to check first."
 permalink: /resources/6-ft-vs-8-ft-privacy-fence/
 kind: article

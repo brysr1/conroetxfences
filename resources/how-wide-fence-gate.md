@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How Wide Should a Fence Gate Be? | 76 Fence of Conroe"
+title: "How Wide Should a Fence Gate Be?"
 description: "How wide should a fence gate be? Sizing walk gates, mower gates, and boat or trailer drive gates for Conroe, Willis, and Montgomery yards."
 permalink: /resources/how-wide-fence-gate/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "5 Wood Fence Upgrades Worth It | 76 Fence of Conroe"
+title: "5 Wood Fence Upgrades Worth It"
 description: "Five wood fence upgrades that pay off on Conroe, Willis, and Montgomery lots: steel posts, steel-frame gates, taller rot boards, cap and trim, and stain."
 permalink: /resources/wood-fence-upgrades/
 kind: article

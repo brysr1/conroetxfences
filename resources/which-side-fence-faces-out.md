@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Which Side of the Fence Faces Out? | 76 Fence of Conroe"
+title: "Which Side of the Fence Faces Out?"
 description: "Which side of the fence faces out on a Conroe, Willis, or Montgomery lot: HOA rules, shared lines with neighbors, security, and styles finished on both sides."
 permalink: /resources/which-side-fence-faces-out/
 kind: article
