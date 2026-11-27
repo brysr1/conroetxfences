@@ -12,7 +12,7 @@ faqs:
   - q: "Can you replace the builder fence in my new subdivision?"
     a: "Yes. Builder fences are often the first thing to lean or rot. We can match the community's standard look or upgrade posts and pickets, and we handle the HOA submittal if one is needed."
   - q: "Which side of the fence faces out?"
-    a: "Many communities expect the finished side to face the street or common area. Shadowbox and board-on-board look good from both sides, which helps on shared lines."
+    a: "Many communities expect the finished side to face the street or common area. Shadowbox looks good from both sides, which helps on shared lines. Board-on-board overlaps its pickets on one face of the rails, so it still has a finished side and a frame side."
 ---
 
 {% include page-hero.html kicker="Fence Styles · Privacy" title="Privacy Fences in Conroe, TX" lede="Solid, full-height fencing that turns a new-construction backyard into a private one." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence enclosing the backyard of a two-story home" %}
